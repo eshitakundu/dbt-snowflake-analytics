@@ -1,0 +1,21 @@
+instructor_id,name,expertise,rating,total_courses,joined_date
+INS001,James Carter,Data Engineering,3.5,5,2019-05-17
+INS002,Priya Nair,Web Development,3.7,2,2021-10-17
+INS003,Michael Chen,AI,3.6,7,2018-03-07
+INS004,Sara Ahmed,Python,3.6,4,2020-10-31
+INS005,David Okonkwo,Cybersecurity,3.5,4,2022-01-06
+INS006,Emily Zhang,AI,4.1,8,2021-04-21
+INS007,Rajan Sharma,Cloud Computing,4.7,1,2022-04-04
+INS008,Laura Müller,Machine Learning,4.5,6,2019-07-24
+INS009,Carlos Rivera,Machine Learning,3.8,6,2018-07-29
+INS010,Aisha Patel,Data Engineering,4.1,6,2022-10-02
+INS011,Tom Nguyen,SQL,4.4,1,2022-02-03
+INS012,Fatima Al-Hassan,Data Science,4.3,7,2018-06-11
+INS013,Lucas Martin,AI,3.9,6,2021-03-28
+INS014,Yuna Kim,Web Development,4.6,1,2021-09-16
+INS015,Omar Farouq,Web Development,4.7,2,2022-10-18
+INS016,Nina Petrov,Web Development,4.8,7,2019-07-24
+INS017,Samuel Osei,Data Science,4.5,6,2018-11-30
+INS018,Mei Lin,SQL,4.0,5,2021-12-08
+INS019,Diego Hernandez,Data Engineering,4.4,3,2020-12-29
+INS020,Anna Kowalski,Web Development,3.7,7,2019-07-07
