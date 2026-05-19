@@ -1,0 +1,41 @@
+course_id,title,category,instructor_id,price,duration_hours,level,created_date,rating,total_enrollments
+CRS001,Building Data Pipelines with Python,Cloud Computing,INS018,49.99,7,Beginner,2020-03-06,4.6,52
+CRS002,Machine Learning Fundamentals,Database,INS013,14.99,17,Advanced,2021-10-06,3.6,63
+CRS003,React for Beginners,AI,INS016,99.99,13,Intermediate,2020-10-12,3.6,57
+CRS004,AWS Solutions Architect,Database,INS018,79.99,29,Intermediate,2021-03-25,5.0,54
+CRS005,SQL Mastery,Programming,INS005,14.99,7,Beginner,2020-11-09,4.3,54
+CRS006,Docker and Kubernetes,Machine Learning,INS014,79.99,28,Advanced,2022-08-16,4.2,70
+CRS007,Deep Learning with PyTorch,Data Engineering,INS018,14.99,38,Intermediate,2023-08-05,3.8,68
+CRS008,FastAPI in Practice,AI,INS010,19.99,33,Beginner,2021-06-23,4.9,59
+CRS009,dbt for Analytics Engineers,Machine Learning,INS006,29.99,36,Advanced,2021-02-11,3.5,49
+CRS010,Snowflake Data Warehouse,Data Engineering,INS006,49.99,35,Beginner,2020-08-17,4.9,56
+CRS011,Apache Airflow Essentials,Cloud Computing,INS010,9.99,19,Advanced,2020-06-10,3.4,58
+CRS012,Data Modeling Fundamentals,Machine Learning,INS016,19.99,12,Advanced,2022-08-31,4.9,65
+CRS013,Python for Data Science,Database,INS006,79.99,17,Advanced,2023-11-13,3.6,54
+CRS014,Kafka Stream Processing,AI,INS010,49.99,32,Advanced,2022-07-13,3.4,47
+CRS015,PostgreSQL Performance Tuning,Machine Learning,INS008,49.99,5,Advanced,2023-02-08,3.6,65
+CRS016,CI/CD with GitHub Actions,Data Engineering,INS008,14.99,7,Beginner,2020-05-18,4.8,42
+CRS017,LLM Engineering,Machine Learning,INS011,24.99,21,Advanced,2022-09-21,3.6,62
+CRS018,Spark for Big Data,Programming,INS005,24.99,34,Intermediate,2021-01-24,3.4,48
+CRS019,MongoDB Essentials,DevOps,INS014,79.99,30,Intermediate,2020-04-20,4.4,52
+CRS020,REST API Design,Data Engineering,INS004,79.99,25,Beginner,2021-05-24,3.5,60
+CRS021,ETL Pipeline Development,Programming,INS018,19.99,31,Beginner,2021-07-24,4.0,69
+CRS022,Power BI for Analysts,Programming,INS003,14.99,7,Advanced,2023-01-12,4.7,62
+CRS023,Tableau Fundamentals,Cloud Computing,INS003,19.99,30,Intermediate,2022-09-12,3.6,50
+CRS024,Azure Data Factory,Data Engineering,INS013,19.99,28,Beginner,2022-03-10,3.7,62
+CRS025,Google BigQuery Mastery,Database,INS015,79.99,39,Advanced,2022-09-23,3.5,69
+CRS026,Data Quality with Great Expectations,Cloud Computing,INS010,9.99,38,Beginner,2021-10-04,3.3,48
+CRS027,Terraform for Data Engineers,Programming,INS019,19.99,7,Advanced,2020-06-13,4.7,49
+CRS028,Redis in Practice,Machine Learning,INS003,24.99,29,Beginner,2023-03-12,3.6,77
+CRS029,GraphQL APIs,Data Engineering,INS020,14.99,30,Advanced,2023-04-10,4.2,81
+CRS030,Elasticsearch Fundamentals,Database,INS011,24.99,24,Beginner,2021-06-27,3.9,56
+CRS031,Time Series Analysis,Programming,INS010,49.99,8,Beginner,2022-07-27,4.3,55
+CRS032,Feature Engineering,Machine Learning,INS019,14.99,38,Beginner,2022-11-02,3.7,62
+CRS033,NLP with Python,Machine Learning,INS012,24.99,27,Intermediate,2020-11-19,4.0,51
+CRS034,Computer Vision Basics,Database,INS018,9.99,39,Intermediate,2023-09-20,3.4,59
+CRS035,Reinforcement Learning,Database,INS005,14.99,10,Advanced,2023-02-07,3.5,59
+CRS036,MLOps Fundamentals,Cloud Computing,INS010,49.99,17,Advanced,2023-07-22,4.7,58
+CRS037,Data Governance,Programming,INS017,29.99,7,Beginner,2023-07-23,4.0,56
+CRS038,Cloud Data Lakes,Data Engineering,INS009,9.99,25,Beginner,2023-07-28,5.0,54
+CRS039,Streaming Analytics,Programming,INS006,79.99,39,Beginner,2020-08-17,3.3,59
+CRS040,DBT Advanced,Data Engineering,INS005,49.99,39,Beginner,2022-05-30,3.4,70

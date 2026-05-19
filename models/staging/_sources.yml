@@ -1,0 +1,12 @@
+version: 2
+
+sources:
+  - name: raw
+    schema: initialization   
+    tables:
+      - name: raw_courses
+      - name: raw_enrollments
+      - name: raw_instructors
+      - name: raw_payments
+      - name: raw_reviews
+      - name: raw_students

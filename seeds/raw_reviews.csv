@@ -1,0 +1,768 @@
+review_id,enrollment_id,student_id,course_id,rating,title,body,sentiment,helpful_votes,verified_purchase,review_date
+REV00001,ENR01048,STU0228,CRS013,4,Very practical,The explanations were very clear and the projects helped solidify concepts.,positive,56,Yes,2024-10-26
+REV00002,ENR00993,STU0214,CRS002,4,Great project based learning,The instructor responds quickly to questions in the Q&A.,positive,44,Yes,2024-11-27
+REV00003,ENR00507,STU0105,CRS010,4,Solid fundamentals,The explanations were very clear and the projects helped solidify concepts.,positive,89,Yes,2024-06-06
+REV00004,ENR01502,STU0332,CRS023,4,Great project based learning,Completed this in a week and landed a job interview shortly after.,positive,116,Yes,2024-11-03
+REV00005,ENR00467,STU0097,CRS003,4,Changed how I think about data,Some videos felt repetitive but overall great value.,positive,77,No,2024-11-23
+REV00006,ENR00592,STU0120,CRS006,4,Too basic for me,The instructor responds quickly to questions in the Q&A.,positive,44,Yes,2024-11-26
+REV00007,ENR00642,STU0137,CRS013,4,Great project based learning,The hands-on projects are where this course really shines.,positive,2,Yes,2024-12-31
+REV00008,ENR00344,STU0073,CRS035,3,Good for beginners,Good course but some sections could use updating.,neutral,16,No,2024-12-30
+REV00009,ENR01872,STU0405,CRS032,3,Good but could be better,Some videos felt repetitive but overall great value.,neutral,40,Yes,2024-10-08
+REV00010,ENR00229,STU0050,CRS023,4,Too basic for me,Some videos felt repetitive but overall great value.,positive,42,Yes,2024-12-20
+REV00011,ENR00648,STU0138,CRS030,4,Great project based learning,The hands-on projects are where this course really shines.,positive,4,Yes,2024-12-31
+REV00012,ENR01791,STU0388,CRS039,3,Exceeded my expectations,Completed this in a week and landed a job interview shortly after.,neutral,20,Yes,2024-12-24
+REV00013,ENR00998,STU0215,CRS032,4,Changed how I think about data,I struggled at first but the instructor breaks things down really well.,positive,60,No,2024-03-05
+REV00014,ENR01347,STU0296,CRS029,4,Great project based learning,Some videos felt repetitive but overall great value.,positive,48,Yes,2024-12-21
+REV00015,ENR01693,STU0367,CRS003,4,Changed how I think about data,Would love to see a part 2 covering more advanced concepts.,positive,118,No,2024-12-19
+REV00016,ENR01722,STU0373,CRS018,4,Life changing content,Clear progression from basic to complex topics.,positive,26,Yes,2024-10-02
+REV00017,ENR01370,STU0299,CRS006,3,Good but could be better,The hands-on projects are where this course really shines.,neutral,87,Yes,2024-10-06
+REV00018,ENR00235,STU0051,CRS024,3,Good for beginners,Loved the real world examples throughout.,neutral,40,Yes,2024-12-16
+REV00019,ENR01540,STU0338,CRS010,4,Life changing content,The instructor responds quickly to questions in the Q&A.,positive,85,Yes,2024-10-14
+REV00020,ENR01241,STU0271,CRS028,4,Needs more exercises,Clear progression from basic to complex topics.,positive,16,Yes,2024-02-04
+REV00021,ENR02335,STU0499,CRS017,3,Best course on this topic,Good foundational course but lacks depth in advanced topics.,neutral,84,Yes,2024-06-24
+REV00022,ENR01080,STU0236,CRS019,3,Very practical,Some videos felt repetitive but overall great value.,neutral,33,Yes,2024-11-01
+REV00023,ENR01772,STU0384,CRS025,4,Needs more exercises,Some videos felt repetitive but overall great value.,positive,70,Yes,2024-06-06
+REV00024,ENR01520,STU0334,CRS005,4,Best course on this topic,Loved the real world examples throughout.,positive,95,No,2024-10-28
+REV00025,ENR01478,STU0326,CRS022,3,Good for beginners,The explanations were very clear and the projects helped solidify concepts.,neutral,114,No,2024-12-28
+REV00026,ENR00548,STU0113,CRS020,4,Could use more real world examples,Completed this in a week and landed a job interview shortly after.,positive,8,No,2024-12-31
+REV00027,ENR01989,STU0427,CRS005,3,Clear and concise,The community support made a huge difference.,neutral,64,Yes,2024-09-27
+REV00028,ENR02278,STU0489,CRS015,4,Perfect pace,The community support made a huge difference.,positive,101,Yes,2024-11-02
+REV00029,ENR01983,STU0425,CRS029,3,Great project based learning,Good course but some sections could use updating.,neutral,82,Yes,2024-12-31
+REV00030,ENR00982,STU0212,CRS038,4,Great project based learning,The explanations were very clear and the projects helped solidify concepts.,positive,8,Yes,2024-12-17
+REV00031,ENR02058,STU0442,CRS017,4,Brilliant content,Good foundational course but lacks depth in advanced topics.,positive,119,Yes,2024-12-19
+REV00032,ENR01011,STU0219,CRS034,4,Exceeded my expectations,Completed this in a week and landed a job interview shortly after.,positive,67,No,2024-11-24
+REV00033,ENR02168,STU0465,CRS020,3,Changed how I think about data,Good foundational course but lacks depth in advanced topics.,neutral,0,Yes,2024-11-23
+REV00034,ENR01689,STU0366,CRS009,4,Worth every penny,Exactly what I needed to transition into this field.,positive,19,No,2024-10-29
+REV00035,ENR00541,STU0112,CRS030,3,Solid fundamentals,Would love to see a part 2 covering more advanced concepts.,neutral,117,No,2024-06-25
+REV00036,ENR00409,STU0086,CRS014,3,Worth every penny,The explanations were very clear and the projects helped solidify concepts.,neutral,98,Yes,2024-09-12
+REV00037,ENR01180,STU0258,CRS029,3,"Great course, highly recommend",Completed this in a week and landed a job interview shortly after.,neutral,4,Yes,2023-11-03
+REV00038,ENR01629,STU0356,CRS028,3,Good for beginners,The community support made a huge difference.,neutral,63,Yes,2024-11-28
+REV00039,ENR02331,STU0498,CRS040,4,Some sections felt rushed,A bit too fast paced for complete beginners.,positive,89,Yes,2024-12-09
+REV00040,ENR02136,STU0459,CRS037,3,"Great course, highly recommend",The community support made a huge difference.,neutral,42,Yes,2024-12-10
+REV00041,ENR01439,STU0317,CRS021,4,Exceeded my expectations,Completed this in a week and landed a job interview shortly after.,positive,53,Yes,2024-11-24
+REV00042,ENR00874,STU0185,CRS028,4,Very practical,The hands-on projects are where this course really shines.,positive,61,Yes,2024-01-22
+REV00043,ENR00223,STU0049,CRS036,3,Not what I expected,Loved the real world examples throughout.,neutral,92,Yes,2024-08-01
+REV00044,ENR01755,STU0381,CRS026,4,Best course on this topic,The quizzes helped me retain the material.,positive,0,Yes,2024-12-31
+REV00045,ENR01342,STU0295,CRS028,3,Absolutely worth it,Good foundational course but lacks depth in advanced topics.,neutral,32,Yes,2024-10-29
+REV00046,ENR01672,STU0363,CRS005,3,Decent overview,Clear progression from basic to complex topics.,neutral,91,Yes,2024-12-27
+REV00047,ENR01919,STU0413,CRS038,3,Very practical,Would love to see a part 2 covering more advanced concepts.,neutral,28,Yes,2024-06-05
+REV00048,ENR00231,STU0051,CRS029,3,Instructor explains really well,Loved the real world examples throughout.,neutral,45,No,2024-12-12
+REV00049,ENR01194,STU0261,CRS037,3,A bit outdated,A bit too fast paced for complete beginners.,neutral,100,Yes,2024-10-30
+REV00050,ENR00805,STU0170,CRS022,3,Solid fundamentals,Some videos felt repetitive but overall great value.,neutral,59,No,2023-11-07
+REV00051,ENR01045,STU0228,CRS003,3,Brilliant content,Would love to see a part 2 covering more advanced concepts.,neutral,61,Yes,2024-10-18
+REV00052,ENR00112,STU0029,CRS019,3,Changed how I think about data,Good course but some sections could use updating.,neutral,41,Yes,2024-12-19
+REV00053,ENR00697,STU0147,CRS029,4,Worth every penny,The explanations were very clear and the projects helped solidify concepts.,positive,64,No,2024-09-25
+REV00054,ENR01421,STU0312,CRS014,4,Decent overview,The instructor responds quickly to questions in the Q&A.,positive,19,No,2024-07-29
+REV00055,ENR00016,STU0005,CRS002,4,Very practical,I struggled at first but the instructor breaks things down really well.,positive,101,No,2024-08-08
+REV00056,ENR01094,STU0238,CRS028,4,Would recommend to a friend,Loved the real world examples throughout.,positive,68,Yes,2024-10-19
+REV00057,ENR00519,STU0109,CRS037,3,Exceeded my expectations,Good foundational course but lacks depth in advanced topics.,neutral,8,Yes,2024-07-27
+REV00058,ENR00960,STU0206,CRS022,4,Changed how I think about data,The community support made a huge difference.,positive,31,No,2024-12-26
+REV00059,ENR01359,STU0298,CRS039,4,Clear and concise,Good foundational course but lacks depth in advanced topics.,positive,52,Yes,2024-12-20
+REV00060,ENR00221,STU0048,CRS017,3,Good but could be better,Good course but some sections could use updating.,neutral,7,Yes,2024-11-13
+REV00061,ENR01181,STU0258,CRS015,4,Changed how I think about data,The quizzes helped me retain the material.,positive,48,Yes,2024-10-03
+REV00062,ENR01323,STU0289,CRS027,3,A bit outdated,The quizzes helped me retain the material.,neutral,43,Yes,2024-12-01
+REV00063,ENR00505,STU0104,CRS012,4,Changed how I think about data,Some videos felt repetitive but overall great value.,positive,81,No,2024-12-06
+REV00064,ENR01510,STU0333,CRS015,3,Changed how I think about data,Loved the real world examples throughout.,neutral,40,Yes,2024-10-26
+REV00065,ENR02204,STU0473,CRS022,3,Worth every penny,Clear progression from basic to complex topics.,neutral,18,No,2024-01-09
+REV00066,ENR00136,STU0034,CRS009,4,Good for beginners,Good foundational course but lacks depth in advanced topics.,positive,107,Yes,2024-12-27
+REV00067,ENR00947,STU0204,CRS008,3,Perfect pace,The quizzes helped me retain the material.,neutral,23,No,2024-12-23
+REV00068,ENR00334,STU0071,CRS029,4,Worth every penny,The instructor responds quickly to questions in the Q&A.,positive,38,No,2024-12-24
+REV00069,ENR02293,STU0491,CRS002,4,Perfect pace,The community support made a huge difference.,positive,12,No,2024-12-25
+REV00070,ENR01754,STU0381,CRS040,3,Decent overview,The quizzes helped me retain the material.,neutral,24,Yes,2024-12-01
+REV00071,ENR00428,STU0088,CRS026,4,Could use more real world examples,The explanations were very clear and the projects helped solidify concepts.,positive,48,No,2024-08-28
+REV00072,ENR01840,STU0399,CRS017,3,"Great course, highly recommend",Good foundational course but lacks depth in advanced topics.,neutral,25,Yes,2024-11-14
+REV00073,ENR01986,STU0426,CRS024,3,Great project based learning,Loved the real world examples throughout.,neutral,69,Yes,2024-03-15
+REV00074,ENR01133,STU0248,CRS016,3,Solid fundamentals,The instructor responds quickly to questions in the Q&A.,neutral,95,Yes,2024-11-29
+REV00075,ENR01495,STU0329,CRS031,4,Clear and concise,The community support made a huge difference.,positive,98,Yes,2024-11-14
+REV00076,ENR00458,STU0094,CRS010,4,Good for beginners,Good foundational course but lacks depth in advanced topics.,positive,7,Yes,2024-12-13
+REV00077,ENR01274,STU0278,CRS004,4,"Great course, highly recommend",Exactly what I needed to transition into this field.,positive,28,Yes,2024-10-06
+REV00078,ENR02275,STU0489,CRS013,4,Very practical,The community support made a huge difference.,positive,0,Yes,2024-08-13
+REV00079,ENR00455,STU0094,CRS020,4,A bit outdated,The quizzes helped me retain the material.,positive,45,Yes,2024-11-08
+REV00080,ENR00090,STU0023,CRS012,4,Instructor explains really well,Exactly what I needed to transition into this field.,positive,37,Yes,2024-08-27
+REV00081,ENR00285,STU0060,CRS023,4,Life changing content,Good course but some sections could use updating.,positive,74,Yes,2024-12-31
+REV00082,ENR00051,STU0014,CRS011,4,Exceeded my expectations,The community support made a huge difference.,positive,111,No,2024-12-04
+REV00083,ENR00445,STU0091,CRS037,3,Best course on this topic,The community support made a huge difference.,neutral,104,Yes,2024-12-30
+REV00084,ENR01202,STU0263,CRS022,4,Too basic for me,Good foundational course but lacks depth in advanced topics.,positive,86,No,2024-11-28
+REV00085,ENR02316,STU0496,CRS032,4,Changed how I think about data,The hands-on projects are where this course really shines.,positive,100,No,2024-11-26
+REV00086,ENR02053,STU0441,CRS030,3,Absolutely worth it,The quizzes helped me retain the material.,neutral,3,Yes,2024-12-30
+REV00087,ENR01078,STU0236,CRS005,3,Worth every penny,I struggled at first but the instructor breaks things down really well.,neutral,42,Yes,2024-12-09
+REV00088,ENR00222,STU0048,CRS037,3,Needs more exercises,Good foundational course but lacks depth in advanced topics.,neutral,118,Yes,2024-12-31
+REV00089,ENR02220,STU0476,CRS040,3,Not what I expected,The explanations were very clear and the projects helped solidify concepts.,neutral,22,Yes,2024-12-31
+REV00090,ENR01568,STU0343,CRS010,4,Good for beginners,The instructor responds quickly to questions in the Q&A.,positive,43,Yes,2024-11-14
+REV00091,ENR02324,STU0497,CRS038,5,Brilliant content,Clear progression from basic to complex topics.,positive,119,Yes,2024-12-29
+REV00092,ENR00378,STU0079,CRS007,4,Too basic for me,The instructor responds quickly to questions in the Q&A.,positive,105,Yes,2024-12-31
+REV00093,ENR00787,STU0167,CRS028,4,Great project based learning,I struggled at first but the instructor breaks things down really well.,positive,11,No,2024-12-31
+REV00094,ENR01530,STU0335,CRS036,4,Good but could be better,Completed this in a week and landed a job interview shortly after.,positive,25,Yes,2023-03-22
+REV00095,ENR00010,STU0004,CRS014,3,Advanced topics well covered,Would love to see a part 2 covering more advanced concepts.,neutral,41,Yes,2024-11-24
+REV00096,ENR00994,STU0214,CRS029,4,"Great course, highly recommend",Would love to see a part 2 covering more advanced concepts.,positive,16,Yes,2024-11-25
+REV00097,ENR00848,STU0178,CRS021,5,Advanced topics well covered,Good course but some sections could use updating.,positive,107,Yes,2024-12-27
+REV00098,ENR00352,STU0074,CRS025,3,Instructor explains really well,A bit too fast paced for complete beginners.,neutral,24,No,2024-12-05
+REV00099,ENR01331,STU0292,CRS039,3,Could use more real world examples,Good foundational course but lacks depth in advanced topics.,neutral,101,Yes,2024-09-02
+REV00100,ENR01053,STU0230,CRS031,4,Not what I expected,The instructor responds quickly to questions in the Q&A.,positive,100,Yes,2024-08-14
+REV00101,ENR00509,STU0106,CRS020,4,"Great course, highly recommend",Good course but some sections could use updating.,positive,4,Yes,2024-07-21
+REV00102,ENR01981,STU0425,CRS025,4,Could use more real world examples,Good course but some sections could use updating.,positive,7,Yes,2024-12-10
+REV00103,ENR00148,STU0036,CRS023,4,Changed how I think about data,A bit too fast paced for complete beginners.,positive,74,Yes,2024-08-10
+REV00104,ENR01585,STU0345,CRS027,3,Instructor explains really well,Clear progression from basic to complex topics.,neutral,30,Yes,2023-09-06
+REV00105,ENR00540,STU0112,CRS038,4,A bit outdated,Loved the real world examples throughout.,positive,119,Yes,2024-12-29
+REV00106,ENR01134,STU0248,CRS033,3,Great project based learning,Good course but some sections could use updating.,neutral,0,Yes,2024-09-03
+REV00107,ENR00668,STU0143,CRS040,4,Could use more real world examples,Loved the real world examples throughout.,positive,46,Yes,2024-11-13
+REV00108,ENR01388,STU0304,CRS024,3,Would recommend to a friend,Exactly what I needed to transition into this field.,neutral,27,No,2024-12-27
+REV00109,ENR02341,STU0500,CRS009,3,Very practical,The quizzes helped me retain the material.,neutral,35,No,2024-12-24
+REV00110,ENR02062,STU0443,CRS022,4,Perfect pace,Exactly what I needed to transition into this field.,positive,113,Yes,2024-12-23
+REV00111,ENR01881,STU0407,CRS009,3,Not what I expected,Exactly what I needed to transition into this field.,neutral,111,Yes,2024-12-17
+REV00112,ENR00330,STU0070,CRS002,3,Brilliant content,Exactly what I needed to transition into this field.,neutral,12,Yes,2024-11-09
+REV00113,ENR00937,STU0201,CRS020,4,"Great course, highly recommend",Exactly what I needed to transition into this field.,positive,34,No,2024-03-30
+REV00114,ENR01713,STU0371,CRS004,5,Good but could be better,I struggled at first but the instructor breaks things down really well.,positive,21,Yes,2024-10-01
+REV00115,ENR01205,STU0263,CRS015,4,Good but could be better,I struggled at first but the instructor breaks things down really well.,positive,9,Yes,2024-12-31
+REV00116,ENR00150,STU0037,CRS008,4,Absolutely worth it,Good foundational course but lacks depth in advanced topics.,positive,110,Yes,2024-12-03
+REV00117,ENR00340,STU0072,CRS020,3,Would recommend to a friend,A bit too fast paced for complete beginners.,neutral,22,No,2024-12-20
+REV00118,ENR01824,STU0394,CRS007,3,Worth every penny,The explanations were very clear and the projects helped solidify concepts.,neutral,54,Yes,2024-12-03
+REV00119,ENR01761,STU0382,CRS015,3,Exceeded my expectations,Some videos felt repetitive but overall great value.,neutral,59,Yes,2024-12-15
+REV00120,ENR01504,STU0332,CRS008,4,Good for beginners,Good course but some sections could use updating.,positive,88,Yes,2024-03-30
+REV00121,ENR01943,STU0418,CRS023,3,Best course on this topic,The instructor responds quickly to questions in the Q&A.,neutral,5,Yes,2024-12-19
+REV00122,ENR02189,STU0471,CRS017,3,"Great course, highly recommend",Some videos felt repetitive but overall great value.,neutral,70,Yes,2024-07-24
+REV00123,ENR00405,STU0085,CRS026,3,Worth every penny,The quizzes helped me retain the material.,neutral,14,Yes,2024-12-19
+REV00124,ENR01513,STU0333,CRS007,4,Needs more exercises,Good foundational course but lacks depth in advanced topics.,positive,27,Yes,2024-12-16
+REV00125,ENR01057,STU0231,CRS028,3,Too basic for me,The quizzes helped me retain the material.,neutral,102,Yes,2024-08-28
+REV00126,ENR00323,STU0070,CRS022,4,Would recommend to a friend,Good course but some sections could use updating.,positive,25,Yes,2024-12-31
+REV00127,ENR00259,STU0056,CRS014,4,Changed how I think about data,Loved the real world examples throughout.,positive,107,Yes,2024-08-09
+REV00128,ENR00304,STU0064,CRS022,4,Good but could be better,The community support made a huge difference.,positive,30,Yes,2024-10-12
+REV00129,ENR00384,STU0081,CRS024,4,Would recommend to a friend,Clear progression from basic to complex topics.,positive,68,Yes,2024-11-17
+REV00130,ENR00754,STU0161,CRS015,4,Worth every penny,The quizzes helped me retain the material.,positive,86,No,2024-12-15
+REV00131,ENR00452,STU0093,CRS020,4,A bit outdated,Good foundational course but lacks depth in advanced topics.,positive,73,Yes,2024-12-18
+REV00132,ENR02174,STU0467,CRS002,3,Perfect pace,Good course but some sections could use updating.,neutral,71,No,2024-10-16
+REV00133,ENR01058,STU0231,CRS029,3,Good for beginners,Clear progression from basic to complex topics.,neutral,96,No,2024-12-25
+REV00134,ENR00392,STU0082,CRS009,3,Very practical,The instructor responds quickly to questions in the Q&A.,neutral,111,Yes,2024-10-12
+REV00135,ENR00527,STU0110,CRS040,3,Good but could be better,Would love to see a part 2 covering more advanced concepts.,neutral,115,Yes,2024-10-30
+REV00136,ENR01426,STU0312,CRS024,4,Worth every penny,Exactly what I needed to transition into this field.,positive,113,Yes,2024-10-17
+REV00137,ENR00813,STU0171,CRS008,4,Some sections felt rushed,Loved the real world examples throughout.,positive,97,Yes,2024-12-26
+REV00138,ENR01908,STU0412,CRS012,4,Best course on this topic,Loved the real world examples throughout.,positive,23,Yes,2024-03-25
+REV00139,ENR01268,STU0278,CRS014,3,"Great course, highly recommend",I struggled at first but the instructor breaks things down really well.,neutral,76,Yes,2024-12-26
+REV00140,ENR02004,STU0430,CRS007,3,Brilliant content,The hands-on projects are where this course really shines.,neutral,46,Yes,2024-12-01
+REV00141,ENR00601,STU0124,CRS025,4,Changed how I think about data,The community support made a huge difference.,positive,61,Yes,2023-11-28
+REV00142,ENR02088,STU0448,CRS040,4,Perfect pace,Good course but some sections could use updating.,positive,43,Yes,2024-12-26
+REV00143,ENR00302,STU0064,CRS006,3,Clear and concise,Exactly what I needed to transition into this field.,neutral,85,Yes,2024-12-25
+REV00144,ENR00959,STU0206,CRS026,4,Clear and concise,The instructor responds quickly to questions in the Q&A.,positive,64,Yes,2024-08-11
+REV00145,ENR00478,STU0098,CRS008,4,Not what I expected,The instructor responds quickly to questions in the Q&A.,positive,16,No,2024-12-23
+REV00146,ENR01676,STU0364,CRS033,3,Changed how I think about data,The hands-on projects are where this course really shines.,neutral,58,Yes,2024-12-24
+REV00147,ENR00206,STU0046,CRS005,4,Worth every penny,The hands-on projects are where this course really shines.,positive,96,Yes,2024-03-08
+REV00148,ENR01270,STU0278,CRS033,3,Perfect pace,The hands-on projects are where this course really shines.,neutral,2,Yes,2024-12-27
+REV00149,ENR00732,STU0155,CRS008,4,Would recommend to a friend,Clear progression from basic to complex topics.,positive,48,Yes,2024-11-30
+REV00150,ENR00029,STU0007,CRS021,3,Great project based learning,The hands-on projects are where this course really shines.,neutral,71,Yes,2024-12-08
+REV00151,ENR01475,STU0324,CRS015,3,Advanced topics well covered,The community support made a huge difference.,neutral,65,Yes,2024-07-25
+REV00152,ENR00127,STU0032,CRS013,4,Good for beginners,Exactly what I needed to transition into this field.,positive,19,Yes,2024-12-29
+REV00153,ENR00873,STU0185,CRS033,4,Very practical,I struggled at first but the instructor breaks things down really well.,positive,61,Yes,2024-12-20
+REV00154,ENR02193,STU0471,CRS034,4,Needs more exercises,The hands-on projects are where this course really shines.,positive,85,No,2024-03-24
+REV00155,ENR00989,STU0214,CRS035,3,Very practical,Good foundational course but lacks depth in advanced topics.,neutral,62,Yes,2024-12-15
+REV00156,ENR01038,STU0226,CRS038,4,Perfect pace,The instructor responds quickly to questions in the Q&A.,positive,110,Yes,2024-09-14
+REV00157,ENR00870,STU0183,CRS034,4,Good for beginners,A bit too fast paced for complete beginners.,positive,13,Yes,2024-07-13
+REV00158,ENR01974,STU0423,CRS028,4,Life changing content,The community support made a huge difference.,positive,20,Yes,2024-12-27
+REV00159,ENR01004,STU0216,CRS028,4,Some sections felt rushed,Exactly what I needed to transition into this field.,positive,102,Yes,2024-09-18
+REV00160,ENR01066,STU0232,CRS009,3,Could use more real world examples,The community support made a huge difference.,neutral,5,Yes,2024-08-20
+REV00161,ENR00971,STU0209,CRS032,4,Advanced topics well covered,Would love to see a part 2 covering more advanced concepts.,positive,85,No,2024-09-30
+REV00162,ENR02211,STU0475,CRS001,3,Brilliant content,The explanations were very clear and the projects helped solidify concepts.,neutral,22,Yes,2024-10-31
+REV00163,ENR00246,STU0054,CRS023,4,Good but could be better,I struggled at first but the instructor breaks things down really well.,positive,48,Yes,2024-12-06
+REV00164,ENR00471,STU0097,CRS004,4,Needs more exercises,Good foundational course but lacks depth in advanced topics.,positive,79,Yes,2024-12-28
+REV00165,ENR00093,STU0024,CRS017,4,Some sections felt rushed,Loved the real world examples throughout.,positive,114,Yes,2024-08-21
+REV00166,ENR00978,STU0210,CRS006,4,Good but could be better,Clear progression from basic to complex topics.,positive,8,Yes,2024-03-25
+REV00167,ENR01768,STU0383,CRS029,4,Could use more real world examples,Good course but some sections could use updating.,positive,29,Yes,2024-12-15
+REV00168,ENR01962,STU0421,CRS030,5,Advanced topics well covered,Exactly what I needed to transition into this field.,positive,65,Yes,2024-11-29
+REV00169,ENR02012,STU0433,CRS035,3,Exceeded my expectations,Would love to see a part 2 covering more advanced concepts.,neutral,71,Yes,2024-11-18
+REV00170,ENR01136,STU0248,CRS028,4,Needs more exercises,Clear progression from basic to complex topics.,positive,75,Yes,2024-12-11
+REV00171,ENR02329,STU0498,CRS025,4,Too basic for me,The quizzes helped me retain the material.,positive,17,Yes,2024-11-08
+REV00172,ENR00790,STU0168,CRS037,4,Needs more exercises,The quizzes helped me retain the material.,positive,61,Yes,2024-06-11
+REV00173,ENR01613,STU0352,CRS015,3,Not what I expected,Loved the real world examples throughout.,neutral,44,Yes,2024-10-31
+REV00174,ENR00580,STU0118,CRS010,3,Very practical,The explanations were very clear and the projects helped solidify concepts.,neutral,27,No,2024-12-29
+REV00175,ENR01612,STU0352,CRS016,4,Decent overview,Some videos felt repetitive but overall great value.,positive,2,No,2024-11-15
+REV00176,ENR01763,STU0382,CRS006,3,Needs more exercises,Some videos felt repetitive but overall great value.,neutral,7,Yes,2024-12-30
+REV00177,ENR01893,STU0409,CRS002,3,Perfect pace,The instructor responds quickly to questions in the Q&A.,neutral,110,No,2024-12-15
+REV00178,ENR00279,STU0060,CRS024,3,Absolutely worth it,Exactly what I needed to transition into this field.,neutral,28,Yes,2024-12-25
+REV00179,ENR01698,STU0368,CRS034,3,Great project based learning,Completed this in a week and landed a job interview shortly after.,neutral,49,Yes,2024-11-21
+REV00180,ENR01917,STU0413,CRS034,3,Changed how I think about data,Exactly what I needed to transition into this field.,neutral,40,No,2024-08-22
+REV00181,ENR00794,STU0168,CRS024,3,Brilliant content,Completed this in a week and landed a job interview shortly after.,neutral,45,Yes,2024-12-26
+REV00182,ENR00553,STU0114,CRS025,3,Would recommend to a friend,The instructor responds quickly to questions in the Q&A.,neutral,81,No,2024-12-10
+REV00183,ENR01742,STU0379,CRS036,4,Would recommend to a friend,Exactly what I needed to transition into this field.,positive,52,No,2024-10-31
+REV00184,ENR01667,STU0363,CRS009,4,Absolutely worth it,Clear progression from basic to complex topics.,positive,40,Yes,2024-10-28
+REV00185,ENR01869,STU0405,CRS027,5,A bit outdated,A bit too fast paced for complete beginners.,positive,15,Yes,2024-09-01
+REV00186,ENR00644,STU0137,CRS015,3,Best course on this topic,The quizzes helped me retain the material.,neutral,47,No,2024-12-18
+REV00187,ENR02321,STU0497,CRS020,3,Decent overview,Good foundational course but lacks depth in advanced topics.,neutral,20,Yes,2024-12-01
+REV00188,ENR02026,STU0435,CRS028,3,Some sections felt rushed,Some videos felt repetitive but overall great value.,neutral,5,Yes,2024-09-25
+REV00189,ENR01123,STU0246,CRS015,3,Best course on this topic,The quizzes helped me retain the material.,neutral,4,Yes,2024-12-25
+REV00190,ENR01846,STU0400,CRS030,3,Too basic for me,Good course but some sections could use updating.,neutral,110,Yes,2024-04-29
+REV00191,ENR02206,STU0474,CRS006,4,Instructor explains really well,The explanations were very clear and the projects helped solidify concepts.,positive,24,Yes,2024-12-28
+REV00192,ENR01856,STU0401,CRS004,4,Could use more real world examples,The instructor responds quickly to questions in the Q&A.,positive,74,No,2024-12-30
+REV00193,ENR02304,STU0494,CRS019,4,Exceeded my expectations,The instructor responds quickly to questions in the Q&A.,positive,111,Yes,2024-02-17
+REV00194,ENR00666,STU0143,CRS030,4,Very practical,Good course but some sections could use updating.,positive,27,Yes,2024-10-31
+REV00195,ENR00199,STU0045,CRS017,3,Would recommend to a friend,The quizzes helped me retain the material.,neutral,42,Yes,2024-12-15
+REV00196,ENR02284,STU0490,CRS007,4,Very practical,I struggled at first but the instructor breaks things down really well.,positive,57,Yes,2024-12-30
+REV00197,ENR00748,STU0160,CRS028,4,Would recommend to a friend,Some videos felt repetitive but overall great value.,positive,19,No,2024-12-01
+REV00198,ENR01694,STU0367,CRS028,4,Clear and concise,The hands-on projects are where this course really shines.,positive,114,Yes,2024-03-25
+REV00199,ENR00817,STU0172,CRS027,4,Absolutely worth it,The hands-on projects are where this course really shines.,positive,35,Yes,2024-11-16
+REV00200,ENR01206,STU0263,CRS038,3,Exceeded my expectations,Loved the real world examples throughout.,neutral,56,Yes,2024-12-18
+REV00201,ENR01358,STU0297,CRS038,4,Very practical,The quizzes helped me retain the material.,positive,115,Yes,2024-09-25
+REV00202,ENR00332,STU0071,CRS026,3,Clear and concise,Completed this in a week and landed a job interview shortly after.,neutral,103,Yes,2024-03-17
+REV00203,ENR02046,STU0440,CRS039,3,Absolutely worth it,The explanations were very clear and the projects helped solidify concepts.,neutral,101,Yes,2024-07-22
+REV00204,ENR01114,STU0243,CRS015,3,Very practical,The explanations were very clear and the projects helped solidify concepts.,neutral,43,No,2024-08-19
+REV00205,ENR00742,STU0159,CRS012,3,Would recommend to a friend,Loved the real world examples throughout.,neutral,92,Yes,2024-11-18
+REV00206,ENR02020,STU0434,CRS036,3,Would recommend to a friend,Good foundational course but lacks depth in advanced topics.,neutral,8,Yes,2024-12-17
+REV00207,ENR01622,STU0355,CRS020,3,Worth every penny,Clear progression from basic to complex topics.,neutral,18,Yes,2024-07-03
+REV00208,ENR01516,STU0334,CRS022,3,"Great course, highly recommend",Some videos felt repetitive but overall great value.,neutral,45,No,2024-12-28
+REV00209,ENR00425,STU0088,CRS015,3,Instructor explains really well,Good foundational course but lacks depth in advanced topics.,neutral,119,Yes,2024-12-05
+REV00210,ENR00725,STU0153,CRS014,4,Solid fundamentals,Good foundational course but lacks depth in advanced topics.,positive,9,Yes,2024-09-26
+REV00211,ENR00992,STU0214,CRS039,4,"Great course, highly recommend",The hands-on projects are where this course really shines.,positive,12,Yes,2024-12-30
+REV00212,ENR01993,STU0428,CRS012,4,Very practical,I struggled at first but the instructor breaks things down really well.,positive,38,Yes,2024-07-07
+REV00213,ENR01793,STU0388,CRS036,3,Perfect pace,Exactly what I needed to transition into this field.,neutral,19,Yes,2024-12-28
+REV00214,ENR01508,STU0332,CRS028,4,Good for beginners,Completed this in a week and landed a job interview shortly after.,positive,13,Yes,2024-11-09
+REV00215,ENR01534,STU0336,CRS030,3,A bit outdated,Clear progression from basic to complex topics.,neutral,107,No,2024-09-27
+REV00216,ENR01645,STU0358,CRS004,3,Exceeded my expectations,Clear progression from basic to complex topics.,neutral,106,No,2024-11-03
+REV00217,ENR01750,STU0380,CRS007,3,Good for beginners,Completed this in a week and landed a job interview shortly after.,neutral,90,Yes,2024-09-18
+REV00218,ENR01131,STU0247,CRS034,4,Changed how I think about data,I struggled at first but the instructor breaks things down really well.,positive,76,Yes,2024-09-01
+REV00219,ENR00491,STU0100,CRS031,4,Worth every penny,The explanations were very clear and the projects helped solidify concepts.,positive,8,Yes,2024-09-12
+REV00220,ENR01795,STU0389,CRS023,4,Very practical,The quizzes helped me retain the material.,positive,67,Yes,2024-12-09
+REV00221,ENR01973,STU0423,CRS021,3,Not what I expected,The quizzes helped me retain the material.,neutral,22,Yes,2024-12-02
+REV00222,ENR02201,STU0473,CRS006,4,Worth every penny,A bit too fast paced for complete beginners.,positive,39,No,2024-12-31
+REV00223,ENR00895,STU0190,CRS034,4,Absolutely worth it,The instructor responds quickly to questions in the Q&A.,positive,6,Yes,2024-06-10
+REV00224,ENR00009,STU0003,CRS015,3,A bit outdated,Clear progression from basic to complex topics.,neutral,30,Yes,2024-08-12
+REV00225,ENR01647,STU0358,CRS039,3,Brilliant content,I struggled at first but the instructor breaks things down really well.,neutral,115,Yes,2024-12-04
+REV00226,ENR00938,STU0201,CRS019,3,"Great course, highly recommend",I struggled at first but the instructor breaks things down really well.,neutral,41,Yes,2024-12-27
+REV00227,ENR02064,STU0444,CRS005,3,Too basic for me,Exactly what I needed to transition into this field.,neutral,91,No,2024-11-16
+REV00228,ENR00752,STU0160,CRS024,3,Exceeded my expectations,The explanations were very clear and the projects helped solidify concepts.,neutral,74,Yes,2024-04-08
+REV00229,ENR00489,STU0099,CRS006,4,Instructor explains really well,The explanations were very clear and the projects helped solidify concepts.,positive,55,No,2024-03-17
+REV00230,ENR01638,STU0357,CRS036,3,Not what I expected,A bit too fast paced for complete beginners.,neutral,24,Yes,2024-10-31
+REV00231,ENR01759,STU0382,CRS011,3,Clear and concise,Good foundational course but lacks depth in advanced topics.,neutral,107,Yes,2024-11-27
+REV00232,ENR02151,STU0463,CRS008,3,Clear and concise,Clear progression from basic to complex topics.,neutral,105,Yes,2024-12-31
+REV00233,ENR02092,STU0450,CRS023,3,"Great course, highly recommend",The explanations were very clear and the projects helped solidify concepts.,neutral,94,Yes,2024-09-06
+REV00234,ENR00680,STU0145,CRS030,4,Worth every penny,Completed this in a week and landed a job interview shortly after.,positive,77,Yes,2024-03-03
+REV00235,ENR01617,STU0353,CRS036,4,Too basic for me,Exactly what I needed to transition into this field.,positive,69,Yes,2024-12-06
+REV00236,ENR01071,STU0234,CRS037,4,Worth every penny,Good foundational course but lacks depth in advanced topics.,positive,114,Yes,2024-12-23
+REV00237,ENR00594,STU0121,CRS011,3,Perfect pace,Clear progression from basic to complex topics.,neutral,74,No,2024-05-08
+REV00238,ENR02040,STU0439,CRS030,4,A bit outdated,Loved the real world examples throughout.,positive,25,No,2024-09-25
+REV00239,ENR01762,STU0382,CRS040,4,Advanced topics well covered,The quizzes helped me retain the material.,positive,98,Yes,2024-12-17
+REV00240,ENR01733,STU0376,CRS016,3,Could use more real world examples,Would love to see a part 2 covering more advanced concepts.,neutral,100,Yes,2024-12-28
+REV00241,ENR01039,STU0226,CRS024,4,Not what I expected,Completed this in a week and landed a job interview shortly after.,positive,70,Yes,2024-12-30
+REV00242,ENR00008,STU0003,CRS018,4,Exceeded my expectations,The instructor responds quickly to questions in the Q&A.,positive,93,No,2024-11-20
+REV00243,ENR00288,STU0061,CRS012,3,Perfect pace,Some videos felt repetitive but overall great value.,neutral,37,Yes,2024-10-22
+REV00244,ENR02292,STU0491,CRS001,4,Good for beginners,Exactly what I needed to transition into this field.,positive,33,Yes,2024-10-15
+REV00245,ENR01351,STU0297,CRS035,3,Life changing content,The hands-on projects are where this course really shines.,neutral,6,Yes,2024-09-02
+REV00246,ENR00518,STU0109,CRS002,4,Decent overview,The instructor responds quickly to questions in the Q&A.,positive,24,No,2024-10-22
+REV00247,ENR00003,STU0002,CRS007,3,Life changing content,Loved the real world examples throughout.,neutral,22,No,2024-12-20
+REV00248,ENR01330,STU0292,CRS001,4,Perfect pace,The instructor responds quickly to questions in the Q&A.,positive,58,Yes,2024-11-04
+REV00249,ENR02122,STU0457,CRS007,4,Absolutely worth it,Some videos felt repetitive but overall great value.,positive,63,Yes,2024-04-07
+REV00250,ENR01663,STU0362,CRS038,4,Life changing content,The explanations were very clear and the projects helped solidify concepts.,positive,40,No,2024-04-29
+REV00251,ENR00438,STU0090,CRS039,4,Clear and concise,The instructor responds quickly to questions in the Q&A.,positive,39,Yes,2024-12-27
+REV00252,ENR01294,STU0283,CRS004,3,Not what I expected,A bit too fast paced for complete beginners.,neutral,74,No,2024-10-08
+REV00253,ENR01913,STU0412,CRS022,4,Life changing content,I struggled at first but the instructor breaks things down really well.,positive,58,Yes,2023-10-11
+REV00254,ENR00522,STU0109,CRS021,4,Exceeded my expectations,Some videos felt repetitive but overall great value.,positive,24,Yes,2024-12-28
+REV00255,ENR00687,STU0145,CRS015,3,Great project based learning,Some videos felt repetitive but overall great value.,neutral,110,Yes,2024-06-26
+REV00256,ENR01730,STU0375,CRS026,3,Good for beginners,Good course but some sections could use updating.,neutral,37,Yes,2024-10-27
+REV00257,ENR01190,STU0261,CRS017,4,Good for beginners,A bit too fast paced for complete beginners.,positive,33,Yes,2024-12-08
+REV00258,ENR01425,STU0312,CRS001,3,Exceeded my expectations,Some videos felt repetitive but overall great value.,neutral,46,Yes,2024-12-03
+REV00259,ENR02319,STU0497,CRS010,3,Changed how I think about data,Exactly what I needed to transition into this field.,neutral,41,Yes,2024-06-10
+REV00260,ENR01546,STU0340,CRS023,4,A bit outdated,Clear progression from basic to complex topics.,positive,68,Yes,2024-04-23
+REV00261,ENR01535,STU0336,CRS023,3,Advanced topics well covered,Completed this in a week and landed a job interview shortly after.,neutral,12,Yes,2024-12-23
+REV00262,ENR01566,STU0342,CRS010,4,Absolutely worth it,The quizzes helped me retain the material.,positive,108,Yes,2024-12-12
+REV00263,ENR02200,STU0472,CRS023,4,Solid fundamentals,Good course but some sections could use updating.,positive,106,No,2024-10-04
+REV00264,ENR02185,STU0469,CRS008,3,Good for beginners,I struggled at first but the instructor breaks things down really well.,neutral,51,Yes,2024-08-29
+REV00265,ENR02105,STU0452,CRS023,4,Could use more real world examples,Loved the real world examples throughout.,positive,41,No,2024-12-08
+REV00266,ENR00049,STU0014,CRS029,4,Exceeded my expectations,The instructor responds quickly to questions in the Q&A.,positive,61,Yes,2024-12-09
+REV00267,ENR00277,STU0059,CRS009,4,Life changing content,The instructor responds quickly to questions in the Q&A.,positive,84,Yes,2024-10-05
+REV00268,ENR00781,STU0165,CRS025,3,Best course on this topic,Good course but some sections could use updating.,neutral,102,No,2024-05-15
+REV00269,ENR00210,STU0047,CRS023,3,Advanced topics well covered,I struggled at first but the instructor breaks things down really well.,neutral,1,Yes,2024-06-21
+REV00270,ENR01468,STU0323,CRS007,4,Absolutely worth it,I struggled at first but the instructor breaks things down really well.,positive,74,Yes,2024-08-09
+REV00271,ENR00072,STU0020,CRS010,3,Needs more exercises,Loved the real world examples throughout.,neutral,105,Yes,2024-03-15
+REV00272,ENR00156,STU0038,CRS029,4,Decent overview,Loved the real world examples throughout.,positive,15,Yes,2024-12-31
+REV00273,ENR01697,STU0367,CRS038,3,Life changing content,Loved the real world examples throughout.,neutral,57,Yes,2024-12-22
+REV00274,ENR00760,STU0162,CRS033,4,Solid fundamentals,Completed this in a week and landed a job interview shortly after.,positive,7,No,2024-12-19
+REV00275,ENR00970,STU0208,CRS035,4,A bit outdated,The explanations were very clear and the projects helped solidify concepts.,positive,9,Yes,2024-06-15
+REV00276,ENR01414,STU0310,CRS028,5,Too basic for me,The explanations were very clear and the projects helped solidify concepts.,positive,51,Yes,2024-12-30
+REV00277,ENR01692,STU0367,CRS021,4,Exceeded my expectations,Good foundational course but lacks depth in advanced topics.,positive,115,Yes,2024-11-19
+REV00278,ENR02294,STU0492,CRS031,4,Decent overview,Some videos felt repetitive but overall great value.,positive,95,Yes,2024-10-03
+REV00279,ENR01449,STU0320,CRS015,3,Very practical,The hands-on projects are where this course really shines.,neutral,90,Yes,2024-11-04
+REV00280,ENR01784,STU0386,CRS012,4,Instructor explains really well,Completed this in a week and landed a job interview shortly after.,positive,17,Yes,2024-08-26
+REV00281,ENR00490,STU0100,CRS019,3,Perfect pace,The quizzes helped me retain the material.,neutral,75,Yes,2024-04-14
+REV00282,ENR00269,STU0057,CRS038,3,Life changing content,I struggled at first but the instructor breaks things down really well.,neutral,6,No,2024-12-09
+REV00283,ENR01026,STU0224,CRS001,4,Too basic for me,Good foundational course but lacks depth in advanced topics.,positive,9,No,2024-05-16
+REV00284,ENR01914,STU0412,CRS015,4,Exceeded my expectations,Good foundational course but lacks depth in advanced topics.,positive,44,Yes,2024-12-03
+REV00285,ENR00446,STU0092,CRS004,4,Too basic for me,The hands-on projects are where this course really shines.,positive,31,No,2023-10-08
+REV00286,ENR00688,STU0146,CRS036,5,"Great course, highly recommend",The community support made a huge difference.,positive,77,Yes,2024-03-25
+REV00287,ENR01178,STU0258,CRS003,4,Worth every penny,A bit too fast paced for complete beginners.,positive,81,Yes,2024-08-27
+REV00288,ENR00847,STU0178,CRS011,3,Solid fundamentals,A bit too fast paced for complete beginners.,neutral,38,Yes,2024-11-27
+REV00289,ENR00333,STU0071,CRS018,3,Would recommend to a friend,A bit too fast paced for complete beginners.,neutral,9,Yes,2024-11-13
+REV00290,ENR00336,STU0072,CRS040,3,Not what I expected,Completed this in a week and landed a job interview shortly after.,neutral,48,Yes,2024-04-20
+REV00291,ENR01141,STU0249,CRS029,4,Decent overview,Some videos felt repetitive but overall great value.,positive,25,Yes,2024-11-10
+REV00292,ENR01013,STU0219,CRS005,3,Brilliant content,Good foundational course but lacks depth in advanced topics.,neutral,64,Yes,2024-11-12
+REV00293,ENR01075,STU0234,CRS032,4,Great project based learning,Good course but some sections could use updating.,positive,53,Yes,2024-03-03
+REV00294,ENR01428,STU0313,CRS040,4,Absolutely worth it,Loved the real world examples throughout.,positive,71,Yes,2024-12-08
+REV00295,ENR02274,STU0489,CRS003,4,Advanced topics well covered,Loved the real world examples throughout.,positive,49,Yes,2024-07-21
+REV00296,ENR00950,STU0205,CRS010,3,Solid fundamentals,The hands-on projects are where this course really shines.,neutral,55,No,2024-06-09
+REV00297,ENR00645,STU0137,CRS008,3,Some sections felt rushed,Completed this in a week and landed a job interview shortly after.,neutral,12,Yes,2024-10-29
+REV00298,ENR02017,STU0434,CRS020,3,Advanced topics well covered,Would love to see a part 2 covering more advanced concepts.,neutral,0,Yes,2024-12-04
+REV00299,ENR00708,STU0149,CRS006,4,Clear and concise,Good foundational course but lacks depth in advanced topics.,positive,107,Yes,2024-11-21
+REV00300,ENR01184,STU0259,CRS011,4,Advanced topics well covered,The instructor responds quickly to questions in the Q&A.,positive,78,No,2024-12-13
+REV00301,ENR01447,STU0320,CRS012,4,Needs more exercises,The explanations were very clear and the projects helped solidify concepts.,positive,64,Yes,2024-06-12
+REV00302,ENR00995,STU0214,CRS008,3,Not what I expected,Would love to see a part 2 covering more advanced concepts.,neutral,5,Yes,2024-07-18
+REV00303,ENR00476,STU0098,CRS021,4,Too basic for me,The explanations were very clear and the projects helped solidify concepts.,positive,64,Yes,2024-10-22
+REV00304,ENR01213,STU0266,CRS026,3,Instructor explains really well,Clear progression from basic to complex topics.,neutral,98,Yes,2023-12-29
+REV00305,ENR01590,STU0346,CRS024,4,Needs more exercises,Exactly what I needed to transition into this field.,positive,58,Yes,2024-12-19
+REV00306,ENR01544,STU0339,CRS021,3,Would recommend to a friend,Completed this in a week and landed a job interview shortly after.,neutral,94,Yes,2024-12-06
+REV00307,ENR02080,STU0447,CRS029,3,Life changing content,Good foundational course but lacks depth in advanced topics.,neutral,118,Yes,2024-10-06
+REV00308,ENR00442,STU0091,CRS019,4,Good for beginners,Exactly what I needed to transition into this field.,positive,82,No,2024-10-23
+REV00309,ENR00208,STU0047,CRS001,4,Very practical,Loved the real world examples throughout.,positive,101,Yes,2024-10-20
+REV00310,ENR01719,STU0373,CRS015,4,Solid fundamentals,Clear progression from basic to complex topics.,positive,115,Yes,2024-12-19
+REV00311,ENR00624,STU0132,CRS016,3,Not what I expected,The hands-on projects are where this course really shines.,neutral,62,Yes,2024-08-05
+REV00312,ENR01177,STU0258,CRS024,5,Some sections felt rushed,Exactly what I needed to transition into this field.,positive,85,Yes,2024-09-03
+REV00313,ENR02108,STU0452,CRS034,3,Great project based learning,Would love to see a part 2 covering more advanced concepts.,neutral,93,Yes,2024-08-20
+REV00314,ENR00039,STU0009,CRS015,3,Clear and concise,Good foundational course but lacks depth in advanced topics.,neutral,104,Yes,2024-12-13
+REV00315,ENR00290,STU0061,CRS029,3,Exceeded my expectations,Some videos felt repetitive but overall great value.,neutral,59,Yes,2024-12-17
+REV00316,ENR02116,STU0455,CRS009,3,Clear and concise,Good foundational course but lacks depth in advanced topics.,neutral,95,No,2023-12-21
+REV00317,ENR01258,STU0274,CRS040,3,Advanced topics well covered,Exactly what I needed to transition into this field.,neutral,72,Yes,2024-12-12
+REV00318,ENR00201,STU0045,CRS029,3,Perfect pace,I struggled at first but the instructor breaks things down really well.,neutral,11,Yes,2024-11-30
+REV00319,ENR00864,STU0181,CRS009,4,Instructor explains really well,The explanations were very clear and the projects helped solidify concepts.,positive,95,No,2024-10-19
+REV00320,ENR02054,STU0442,CRS029,4,Instructor explains really well,Exactly what I needed to transition into this field.,positive,93,No,2024-12-25
+REV00321,ENR01444,STU0320,CRS009,3,Clear and concise,The quizzes helped me retain the material.,neutral,53,No,2024-12-15
+REV00322,ENR01355,STU0297,CRS006,3,A bit outdated,Would love to see a part 2 covering more advanced concepts.,neutral,68,Yes,2024-09-19
+REV00323,ENR00710,STU0149,CRS027,3,Good but could be better,I struggled at first but the instructor breaks things down really well.,neutral,93,Yes,2024-12-12
+REV00324,ENR00032,STU0009,CRS035,4,Not what I expected,A bit too fast paced for complete beginners.,positive,78,Yes,2024-12-20
+REV00325,ENR01471,STU0324,CRS014,4,Instructor explains really well,I struggled at first but the instructor breaks things down really well.,positive,19,Yes,2024-02-12
+REV00326,ENR02014,STU0433,CRS008,3,Absolutely worth it,The explanations were very clear and the projects helped solidify concepts.,neutral,34,No,2024-10-21
+REV00327,ENR01063,STU0232,CRS018,3,Too basic for me,Loved the real world examples throughout.,neutral,83,No,2024-11-09
+REV00328,ENR01736,STU0378,CRS014,4,Exceeded my expectations,The hands-on projects are where this course really shines.,positive,89,Yes,2024-12-20
+REV00329,ENR00436,STU0090,CRS040,3,"Great course, highly recommend",The community support made a huge difference.,neutral,12,Yes,2024-11-03
+REV00330,ENR02113,STU0455,CRS013,3,Perfect pace,The community support made a huge difference.,neutral,57,Yes,2024-12-31
+REV00331,ENR01643,STU0358,CRS036,3,Changed how I think about data,Good foundational course but lacks depth in advanced topics.,neutral,49,No,2024-10-11
+REV00332,ENR02288,STU0491,CRS019,3,Best course on this topic,Would love to see a part 2 covering more advanced concepts.,neutral,109,Yes,2024-08-01
+REV00333,ENR01036,STU0226,CRS029,3,"Great course, highly recommend",The community support made a huge difference.,neutral,54,No,2024-11-29
+REV00334,ENR02163,STU0464,CRS015,4,A bit outdated,Loved the real world examples throughout.,positive,42,Yes,2024-12-30
+REV00335,ENR02295,STU0493,CRS038,3,Best course on this topic,Clear progression from basic to complex topics.,neutral,47,No,2024-07-13
+REV00336,ENR00886,STU0189,CRS035,4,Solid fundamentals,Would love to see a part 2 covering more advanced concepts.,positive,25,No,2024-09-10
+REV00337,ENR01707,STU0370,CRS017,3,Good but could be better,A bit too fast paced for complete beginners.,neutral,55,No,2024-10-30
+REV00338,ENR01900,STU0411,CRS029,4,Too basic for me,Some videos felt repetitive but overall great value.,positive,120,Yes,2024-12-30
+REV00339,ENR01412,STU0310,CRS004,4,Could use more real world examples,Good course but some sections could use updating.,positive,92,Yes,2024-08-29
+REV00340,ENR00744,STU0159,CRS007,4,"Great course, highly recommend",Clear progression from basic to complex topics.,positive,84,Yes,2024-11-30
+REV00341,ENR00422,STU0088,CRS037,4,Advanced topics well covered,I struggled at first but the instructor breaks things down really well.,positive,102,Yes,2024-11-10
+REV00342,ENR01125,STU0246,CRS001,4,Good for beginners,The hands-on projects are where this course really shines.,positive,8,Yes,2024-09-05
+REV00343,ENR00151,STU0037,CRS009,4,A bit outdated,Clear progression from basic to complex topics.,positive,18,Yes,2024-12-21
+REV00344,ENR01072,STU0234,CRS040,4,A bit outdated,The quizzes helped me retain the material.,positive,15,No,2024-09-11
+REV00345,ENR01512,STU0333,CRS026,4,Exceeded my expectations,Loved the real world examples throughout.,positive,69,Yes,2024-12-24
+REV00346,ENR00483,STU0099,CRS014,3,Not what I expected,Good foundational course but lacks depth in advanced topics.,neutral,84,Yes,2023-10-23
+REV00347,ENR00298,STU0063,CRS027,4,Good for beginners,The quizzes helped me retain the material.,positive,20,Yes,2024-12-27
+REV00348,ENR01225,STU0268,CRS005,4,"Great course, highly recommend",The quizzes helped me retain the material.,positive,1,Yes,2024-10-13
+REV00349,ENR01739,STU0378,CRS035,4,Decent overview,The hands-on projects are where this course really shines.,positive,82,Yes,2024-12-07
+REV00350,ENR00707,STU0149,CRS025,3,Life changing content,Clear progression from basic to complex topics.,neutral,40,Yes,2024-06-28
+REV00351,ENR00712,STU0150,CRS031,4,Great project based learning,Good course but some sections could use updating.,positive,113,Yes,2024-12-31
+REV00352,ENR00963,STU0206,CRS029,4,Not what I expected,Good course but some sections could use updating.,positive,100,Yes,2024-12-03
+REV00353,ENR00200,STU0045,CRS013,3,Perfect pace,Would love to see a part 2 covering more advanced concepts.,neutral,73,Yes,2024-04-11
+REV00354,ENR01831,STU0397,CRS006,4,Very practical,The community support made a huge difference.,positive,6,Yes,2023-02-25
+REV00355,ENR01882,STU0407,CRS033,3,Good for beginners,Would love to see a part 2 covering more advanced concepts.,neutral,88,Yes,2023-11-03
+REV00356,ENR01423,STU0312,CRS040,4,Clear and concise,I struggled at first but the instructor breaks things down really well.,positive,53,Yes,2024-12-31
+REV00357,ENR00449,STU0092,CRS002,4,Instructor explains really well,The community support made a huge difference.,positive,49,Yes,2024-09-18
+REV00358,ENR02067,STU0444,CRS037,3,Good but could be better,The hands-on projects are where this course really shines.,neutral,12,Yes,2024-12-06
+REV00359,ENR02052,STU0440,CRS007,3,Life changing content,Would love to see a part 2 covering more advanced concepts.,neutral,102,No,2024-06-17
+REV00360,ENR02137,STU0460,CRS012,4,Decent overview,Exactly what I needed to transition into this field.,positive,107,Yes,2024-12-08
+REV00361,ENR00289,STU0061,CRS032,4,Solid fundamentals,Some videos felt repetitive but overall great value.,positive,113,Yes,2024-06-23
+REV00362,ENR00327,STU0070,CRS036,3,Very practical,Exactly what I needed to transition into this field.,neutral,22,No,2024-10-26
+REV00363,ENR00355,STU0074,CRS017,4,Could use more real world examples,Some videos felt repetitive but overall great value.,positive,84,Yes,2024-12-21
+REV00364,ENR00404,STU0085,CRS036,3,Some sections felt rushed,Would love to see a part 2 covering more advanced concepts.,neutral,44,Yes,2024-10-31
+REV00365,ENR02084,STU0447,CRS011,4,Good for beginners,Loved the real world examples throughout.,positive,55,Yes,2024-11-27
+REV00366,ENR02130,STU0458,CRS025,3,Absolutely worth it,Some videos felt repetitive but overall great value.,neutral,47,Yes,2024-10-25
+REV00367,ENR00074,STU0020,CRS017,3,Too basic for me,Good foundational course but lacks depth in advanced topics.,neutral,66,Yes,2024-10-08
+REV00368,ENR01296,STU0284,CRS039,4,Good for beginners,The community support made a huge difference.,positive,38,Yes,2024-12-17
+REV00369,ENR02300,STU0493,CRS031,3,Clear and concise,The explanations were very clear and the projects helped solidify concepts.,neutral,83,Yes,2024-10-23
+REV00370,ENR00437,STU0090,CRS038,4,Decent overview,Completed this in a week and landed a job interview shortly after.,positive,44,Yes,2024-11-16
+REV00371,ENR01477,STU0325,CRS030,3,Changed how I think about data,Exactly what I needed to transition into this field.,neutral,50,No,2024-09-17
+REV00372,ENR00596,STU0121,CRS018,4,Very practical,The community support made a huge difference.,positive,42,Yes,2024-11-26
+REV00373,ENR02190,STU0471,CRS013,3,A bit outdated,Loved the real world examples throughout.,neutral,56,Yes,2024-12-05
+REV00374,ENR00880,STU0187,CRS012,4,Some sections felt rushed,Exactly what I needed to transition into this field.,positive,112,Yes,2024-12-23
+REV00375,ENR00146,STU0035,CRS010,4,Worth every penny,Good foundational course but lacks depth in advanced topics.,positive,55,Yes,2024-03-22
+REV00376,ENR01514,STU0333,CRS018,3,A bit outdated,Loved the real world examples throughout.,neutral,108,No,2024-11-14
+REV00377,ENR01121,STU0246,CRS025,4,Would recommend to a friend,Good course but some sections could use updating.,positive,60,Yes,2024-12-03
+REV00378,ENR00482,STU0099,CRS016,3,Great project based learning,Exactly what I needed to transition into this field.,neutral,87,No,2024-12-25
+REV00379,ENR01668,STU0363,CRS003,4,A bit outdated,A bit too fast paced for complete beginners.,positive,113,No,2024-12-21
+REV00380,ENR01603,STU0350,CRS031,3,A bit outdated,Would love to see a part 2 covering more advanced concepts.,neutral,119,Yes,2024-12-14
+REV00381,ENR00286,STU0061,CRS039,4,Exceeded my expectations,Clear progression from basic to complex topics.,positive,18,No,2024-09-20
+REV00382,ENR00397,STU0084,CRS034,4,Perfect pace,The instructor responds quickly to questions in the Q&A.,positive,66,Yes,2024-12-03
+REV00383,ENR01265,STU0277,CRS005,3,Life changing content,The community support made a huge difference.,neutral,22,No,2024-07-30
+REV00384,ENR01328,STU0291,CRS002,3,Life changing content,The instructor responds quickly to questions in the Q&A.,neutral,7,No,2024-04-13
+REV00385,ENR01536,STU0336,CRS019,4,Advanced topics well covered,Completed this in a week and landed a job interview shortly after.,positive,101,No,2024-11-14
+REV00386,ENR01729,STU0375,CRS032,3,Some sections felt rushed,Completed this in a week and landed a job interview shortly after.,neutral,62,Yes,2024-12-19
+REV00387,ENR00987,STU0213,CRS039,4,Too basic for me,The hands-on projects are where this course really shines.,positive,8,Yes,2024-09-19
+REV00388,ENR00262,STU0056,CRS002,4,A bit outdated,Clear progression from basic to complex topics.,positive,44,Yes,2024-12-30
+REV00389,ENR00612,STU0127,CRS002,3,Changed how I think about data,Exactly what I needed to transition into this field.,neutral,91,Yes,2024-05-12
+REV00390,ENR01703,STU0368,CRS032,4,Clear and concise,The instructor responds quickly to questions in the Q&A.,positive,111,Yes,2024-10-09
+REV00391,ENR01843,STU0399,CRS019,4,Perfect pace,The instructor responds quickly to questions in the Q&A.,positive,113,Yes,2024-08-12
+REV00392,ENR00429,STU0089,CRS011,3,Life changing content,I struggled at first but the instructor breaks things down really well.,neutral,52,No,2024-12-27
+REV00393,ENR01456,STU0321,CRS008,3,Best course on this topic,Good course but some sections could use updating.,neutral,0,No,2024-04-15
+REV00394,ENR01413,STU0310,CRS006,4,Clear and concise,The explanations were very clear and the projects helped solidify concepts.,positive,34,Yes,2024-12-29
+REV00395,ENR02287,STU0491,CRS036,4,Absolutely worth it,The hands-on projects are where this course really shines.,positive,22,No,2024-06-08
+REV00396,ENR00658,STU0140,CRS023,4,Too basic for me,Clear progression from basic to complex topics.,positive,15,No,2024-12-30
+REV00397,ENR00792,STU0168,CRS034,4,Great project based learning,Good course but some sections could use updating.,positive,14,No,2024-07-17
+REV00398,ENR00124,STU0031,CRS007,4,Good but could be better,Good course but some sections could use updating.,positive,87,Yes,2024-08-16
+REV00399,ENR01519,STU0334,CRS017,3,Good but could be better,Good course but some sections could use updating.,neutral,59,Yes,2024-11-28
+REV00400,ENR00048,STU0013,CRS010,4,Best course on this topic,Good foundational course but lacks depth in advanced topics.,positive,111,No,2024-10-01
+REV00401,ENR00763,STU0163,CRS033,3,Good for beginners,Loved the real world examples throughout.,neutral,25,Yes,2024-12-20
+REV00402,ENR01789,STU0388,CRS040,4,Perfect pace,The community support made a huge difference.,positive,67,Yes,2024-12-29
+REV00403,ENR00342,STU0073,CRS028,3,Very practical,The instructor responds quickly to questions in the Q&A.,neutral,29,Yes,2024-05-29
+REV00404,ENR01985,STU0426,CRS033,4,Could use more real world examples,Completed this in a week and landed a job interview shortly after.,positive,92,Yes,2024-08-08
+REV00405,ENR00730,STU0155,CRS020,3,Clear and concise,Clear progression from basic to complex topics.,neutral,96,No,2024-10-31
+REV00406,ENR01637,STU0357,CRS040,3,Instructor explains really well,The explanations were very clear and the projects helped solidify concepts.,neutral,120,Yes,2024-04-18
+REV00407,ENR01815,STU0393,CRS011,3,Life changing content,Loved the real world examples throughout.,neutral,96,Yes,2024-09-27
+REV00408,ENR00321,STU0068,CRS013,3,Changed how I think about data,Completed this in a week and landed a job interview shortly after.,neutral,91,Yes,2024-12-28
+REV00409,ENR01247,STU0272,CRS007,4,Life changing content,Exactly what I needed to transition into this field.,positive,58,No,2024-10-16
+REV00410,ENR01102,STU0240,CRS001,4,Changed how I think about data,The explanations were very clear and the projects helped solidify concepts.,positive,71,Yes,2024-10-21
+REV00411,ENR01991,STU0427,CRS039,3,Good but could be better,The community support made a huge difference.,neutral,18,Yes,2024-12-27
+REV00412,ENR00107,STU0028,CRS015,3,Very practical,The instructor responds quickly to questions in the Q&A.,neutral,27,Yes,2024-09-23
+REV00413,ENR01743,STU0379,CRS027,4,Changed how I think about data,The hands-on projects are where this course really shines.,positive,92,Yes,2024-08-17
+REV00414,ENR00431,STU0089,CRS040,4,Could use more real world examples,Some videos felt repetitive but overall great value.,positive,34,Yes,2024-10-21
+REV00415,ENR00810,STU0171,CRS032,3,Solid fundamentals,Completed this in a week and landed a job interview shortly after.,neutral,63,Yes,2024-11-29
+REV00416,ENR00863,STU0181,CRS021,4,Too basic for me,Would love to see a part 2 covering more advanced concepts.,positive,101,Yes,2024-09-25
+REV00417,ENR00845,STU0177,CRS034,4,Would recommend to a friend,Clear progression from basic to complex topics.,positive,11,No,2024-11-28
+REV00418,ENR00081,STU0022,CRS020,3,Great project based learning,The community support made a huge difference.,neutral,13,Yes,2024-12-30
+REV00419,ENR01480,STU0327,CRS021,5,Could use more real world examples,The hands-on projects are where this course really shines.,positive,93,Yes,2024-11-26
+REV00420,ENR00702,STU0148,CRS004,4,Worth every penny,Loved the real world examples throughout.,positive,5,No,2024-10-26
+REV00421,ENR00586,STU0119,CRS039,4,Would recommend to a friend,Good foundational course but lacks depth in advanced topics.,positive,3,Yes,2024-05-30
+REV00422,ENR02044,STU0439,CRS019,4,Absolutely worth it,Would love to see a part 2 covering more advanced concepts.,positive,2,Yes,2024-12-08
+REV00423,ENR00046,STU0013,CRS007,4,Exceeded my expectations,Loved the real world examples throughout.,positive,111,No,2024-04-25
+REV00424,ENR00735,STU0156,CRS038,4,Good but could be better,I struggled at first but the instructor breaks things down really well.,positive,11,Yes,2024-12-28
+REV00425,ENR01724,STU0374,CRS020,4,Perfect pace,The instructor responds quickly to questions in the Q&A.,positive,107,Yes,2024-02-27
+REV00426,ENR02141,STU0460,CRS028,3,Could use more real world examples,The community support made a huge difference.,neutral,39,Yes,2024-11-11
+REV00427,ENR01295,STU0284,CRS018,4,Great project based learning,The hands-on projects are where this course really shines.,positive,86,No,2024-10-28
+REV00428,ENR00587,STU0119,CRS037,4,Best course on this topic,Would love to see a part 2 covering more advanced concepts.,positive,5,Yes,2024-04-08
+REV00429,ENR02023,STU0435,CRS010,3,Great project based learning,The hands-on projects are where this course really shines.,neutral,87,No,2024-09-30
+REV00430,ENR01055,STU0230,CRS038,3,Not what I expected,The quizzes helped me retain the material.,neutral,80,Yes,2024-06-02
+REV00431,ENR00147,STU0036,CRS022,3,Not what I expected,The explanations were very clear and the projects helped solidify concepts.,neutral,69,Yes,2024-12-04
+REV00432,ENR02281,STU0490,CRS008,3,Not what I expected,Loved the real world examples throughout.,neutral,68,Yes,2024-11-19
+REV00433,ENR00628,STU0132,CRS007,4,Some sections felt rushed,A bit too fast paced for complete beginners.,positive,118,Yes,2024-11-18
+REV00434,ENR00677,STU0144,CRS006,3,Could use more real world examples,I struggled at first but the instructor breaks things down really well.,neutral,96,Yes,2024-10-07
+REV00435,ENR01539,STU0338,CRS018,3,Absolutely worth it,Good course but some sections could use updating.,neutral,105,Yes,2024-09-25
+REV00436,ENR00251,STU0054,CRS005,4,Good but could be better,The community support made a huge difference.,positive,77,No,2024-11-06
+REV00437,ENR01120,STU0245,CRS039,4,Not what I expected,Good foundational course but lacks depth in advanced topics.,positive,96,Yes,2024-11-24
+REV00438,ENR01543,STU0339,CRS028,4,Very practical,Completed this in a week and landed a job interview shortly after.,positive,77,Yes,2024-11-24
+REV00439,ENR00064,STU0016,CRS025,3,Decent overview,The community support made a huge difference.,neutral,5,No,2024-11-20
+REV00440,ENR00512,STU0107,CRS008,4,Too basic for me,I struggled at first but the instructor breaks things down really well.,positive,88,Yes,2024-11-18
+REV00441,ENR02286,STU0491,CRS031,4,Decent overview,Good course but some sections could use updating.,positive,110,Yes,2024-12-22
+REV00442,ENR00468,STU0097,CRS036,4,"Great course, highly recommend",Completed this in a week and landed a job interview shortly after.,positive,69,Yes,2024-11-28
+REV00443,ENR01665,STU0362,CRS039,3,Advanced topics well covered,The quizzes helped me retain the material.,neutral,89,Yes,2024-08-22
+REV00444,ENR00165,STU0039,CRS021,3,Clear and concise,Completed this in a week and landed a job interview shortly after.,neutral,92,Yes,2024-12-09
+REV00445,ENR00660,STU0140,CRS016,4,Good but could be better,Good foundational course but lacks depth in advanced topics.,positive,67,No,2024-12-22
+REV00446,ENR00474,STU0098,CRS006,4,Exceeded my expectations,A bit too fast paced for complete beginners.,positive,106,Yes,2024-11-18
+REV00447,ENR01111,STU0242,CRS038,4,Very practical,A bit too fast paced for complete beginners.,positive,86,Yes,2024-11-29
+REV00448,ENR00401,STU0085,CRS007,3,Best course on this topic,Good foundational course but lacks depth in advanced topics.,neutral,22,No,2024-12-30
+REV00449,ENR01714,STU0371,CRS034,3,Some sections felt rushed,The instructor responds quickly to questions in the Q&A.,neutral,96,Yes,2024-12-20
+REV00450,ENR01188,STU0261,CRS015,4,Needs more exercises,Some videos felt repetitive but overall great value.,positive,101,Yes,2024-12-23
+REV00451,ENR00826,STU0174,CRS024,4,Not what I expected,Good foundational course but lacks depth in advanced topics.,positive,110,Yes,2024-12-25
+REV00452,ENR01333,STU0293,CRS006,3,Life changing content,The explanations were very clear and the projects helped solidify concepts.,neutral,102,Yes,2024-11-20
+REV00453,ENR02323,STU0497,CRS026,4,Clear and concise,Would love to see a part 2 covering more advanced concepts.,positive,32,Yes,2024-11-11
+REV00454,ENR01485,STU0328,CRS015,3,Life changing content,Completed this in a week and landed a job interview shortly after.,neutral,58,Yes,2023-11-28
+REV00455,ENR01696,STU0367,CRS034,3,Needs more exercises,Good course but some sections could use updating.,neutral,4,Yes,2024-10-11
+REV00456,ENR01237,STU0270,CRS011,4,Some sections felt rushed,The instructor responds quickly to questions in the Q&A.,positive,71,Yes,2024-12-30
+REV00457,ENR00571,STU0117,CRS019,3,Absolutely worth it,I struggled at first but the instructor breaks things down really well.,neutral,8,Yes,2024-11-17
+REV00458,ENR01804,STU0390,CRS001,3,Advanced topics well covered,Completed this in a week and landed a job interview shortly after.,neutral,5,No,2023-06-17
+REV00459,ENR02262,STU0484,CRS016,3,A bit outdated,Exactly what I needed to transition into this field.,neutral,2,Yes,2024-06-26
+REV00460,ENR00749,STU0160,CRS013,3,Absolutely worth it,Clear progression from basic to complex topics.,neutral,46,Yes,2024-12-23
+REV00461,ENR01501,STU0331,CRS030,4,Perfect pace,Clear progression from basic to complex topics.,positive,60,No,2024-07-28
+REV00462,ENR00443,STU0091,CRS025,3,Instructor explains really well,The community support made a huge difference.,neutral,85,Yes,2024-12-11
+REV00463,ENR00552,STU0114,CRS026,4,Too basic for me,I struggled at first but the instructor breaks things down really well.,positive,60,Yes,2024-09-08
+REV00464,ENR00184,STU0043,CRS033,3,"Great course, highly recommend",The community support made a huge difference.,neutral,38,Yes,2024-12-04
+REV00465,ENR00622,STU0131,CRS028,3,Good for beginners,The instructor responds quickly to questions in the Q&A.,neutral,28,Yes,2024-12-03
+REV00466,ENR01174,STU0257,CRS022,4,Very practical,Loved the real world examples throughout.,positive,78,Yes,2024-12-30
+REV00467,ENR00774,STU0164,CRS003,4,Good for beginners,Some videos felt repetitive but overall great value.,positive,111,Yes,2024-11-09
+REV00468,ENR01394,STU0306,CRS024,5,Life changing content,Completed this in a week and landed a job interview shortly after.,positive,6,Yes,2024-12-31
+REV00469,ENR00477,STU0098,CRS011,3,Not what I expected,Some videos felt repetitive but overall great value.,neutral,86,No,2024-01-25
+REV00470,ENR01261,STU0275,CRS026,4,Absolutely worth it,Clear progression from basic to complex topics.,positive,3,Yes,2024-12-29
+REV00471,ENR00220,STU0048,CRS012,3,Brilliant content,The community support made a huge difference.,neutral,77,Yes,2024-12-19
+REV00472,ENR01232,STU0269,CRS034,4,Decent overview,The quizzes helped me retain the material.,positive,101,Yes,2024-12-11
+REV00473,ENR00965,STU0208,CRS025,3,Worth every penny,The hands-on projects are where this course really shines.,neutral,18,Yes,2024-08-22
+REV00474,ENR00731,STU0155,CRS002,4,Changed how I think about data,Good foundational course but lacks depth in advanced topics.,positive,66,No,2024-10-14
+REV00475,ENR00634,STU0133,CRS036,4,Solid fundamentals,The community support made a huge difference.,positive,57,Yes,2024-12-29
+REV00476,ENR00276,STU0059,CRS028,3,Clear and concise,The hands-on projects are where this course really shines.,neutral,5,Yes,2024-10-24
+REV00477,ENR02195,STU0472,CRS033,4,Would recommend to a friend,Completed this in a week and landed a job interview shortly after.,positive,6,Yes,2024-11-27
+REV00478,ENR01367,STU0299,CRS028,4,Would recommend to a friend,Some videos felt repetitive but overall great value.,positive,41,Yes,2024-09-14
+REV00479,ENR00135,STU0034,CRS039,4,Good but could be better,The quizzes helped me retain the material.,positive,16,No,2024-10-11
+REV00480,ENR01870,STU0405,CRS002,4,Exceeded my expectations,I struggled at first but the instructor breaks things down really well.,positive,98,Yes,2024-12-22
+REV00481,ENR01219,STU0267,CRS008,3,Advanced topics well covered,The quizzes helped me retain the material.,neutral,27,Yes,2024-11-29
+REV00482,ENR00273,STU0059,CRS025,4,Would recommend to a friend,Good course but some sections could use updating.,positive,28,Yes,2024-06-30
+REV00483,ENR01158,STU0252,CRS038,4,Good for beginners,Some videos felt repetitive but overall great value.,positive,75,Yes,2024-10-26
+REV00484,ENR02192,STU0471,CRS018,3,Needs more exercises,The quizzes helped me retain the material.,neutral,68,Yes,2024-11-15
+REV00485,ENR01466,STU0323,CRS018,3,"Great course, highly recommend",The instructor responds quickly to questions in the Q&A.,neutral,24,Yes,2024-10-08
+REV00486,ENR00188,STU0044,CRS035,3,Life changing content,Clear progression from basic to complex topics.,neutral,81,Yes,2024-12-07
+REV00487,ENR00620,STU0131,CRS005,4,Changed how I think about data,Clear progression from basic to complex topics.,positive,48,No,2024-11-16
+REV00488,ENR00968,STU0208,CRS008,3,Not what I expected,Some videos felt repetitive but overall great value.,neutral,13,Yes,2024-12-26
+REV00489,ENR01150,STU0251,CRS032,4,Very practical,I struggled at first but the instructor breaks things down really well.,positive,65,Yes,2024-09-22
+REV00490,ENR02039,STU0439,CRS008,4,Good but could be better,The instructor responds quickly to questions in the Q&A.,positive,113,Yes,2024-12-28
+REV00491,ENR01591,STU0347,CRS029,4,Decent overview,Would love to see a part 2 covering more advanced concepts.,positive,92,Yes,2024-11-13
+REV00492,ENR01079,STU0236,CRS025,3,Changed how I think about data,The community support made a huge difference.,neutral,66,No,2023-05-23
+REV00493,ENR00888,STU0189,CRS006,4,Not what I expected,Good foundational course but lacks depth in advanced topics.,positive,106,Yes,2024-11-19
+REV00494,ENR01892,STU0409,CRS008,3,Good but could be better,Would love to see a part 2 covering more advanced concepts.,neutral,51,Yes,2024-12-21
+REV00495,ENR00225,STU0050,CRS036,4,Very practical,Exactly what I needed to transition into this field.,positive,16,Yes,2024-12-24
+REV00496,ENR00843,STU0177,CRS006,3,"Great course, highly recommend",The explanations were very clear and the projects helped solidify concepts.,neutral,110,No,2024-07-21
+REV00497,ENR00669,STU0143,CRS037,3,"Great course, highly recommend",Some videos felt repetitive but overall great value.,neutral,77,No,2024-10-19
+REV00498,ENR01873,STU0406,CRS021,4,Absolutely worth it,Completed this in a week and landed a job interview shortly after.,positive,47,Yes,2024-12-26
+REV00499,ENR01185,STU0259,CRS006,4,Needs more exercises,Would love to see a part 2 covering more advanced concepts.,positive,1,Yes,2024-12-30
+REV00500,ENR00653,STU0139,CRS031,4,Best course on this topic,Good foundational course but lacks depth in advanced topics.,positive,27,Yes,2024-09-20
+REV00501,ENR01291,STU0283,CRS022,3,Instructor explains really well,A bit too fast paced for complete beginners.,neutral,19,Yes,2024-10-16
+REV00502,ENR02272,STU0489,CRS036,4,Very practical,Good foundational course but lacks depth in advanced topics.,positive,100,Yes,2024-08-31
+REV00503,ENR00704,STU0148,CRS026,5,Exceeded my expectations,The community support made a huge difference.,positive,33,No,2024-09-09
+REV00504,ENR00098,STU0026,CRS039,4,Could use more real world examples,Would love to see a part 2 covering more advanced concepts.,positive,66,Yes,2024-09-26
+REV00505,ENR02002,STU0430,CRS035,4,Decent overview,The instructor responds quickly to questions in the Q&A.,positive,65,Yes,2024-03-04
+REV00506,ENR00308,STU0065,CRS006,3,Could use more real world examples,Clear progression from basic to complex topics.,neutral,101,Yes,2024-12-17
+REV00507,ENR00681,STU0145,CRS020,3,Absolutely worth it,Good foundational course but lacks depth in advanced topics.,neutral,61,Yes,2024-09-17
+REV00508,ENR01474,STU0324,CRS021,4,Advanced topics well covered,I struggled at first but the instructor breaks things down really well.,positive,5,Yes,2024-11-29
+REV00509,ENR01166,STU0254,CRS009,4,Not what I expected,The quizzes helped me retain the material.,positive,91,Yes,2024-02-21
+REV00510,ENR00921,STU0196,CRS022,4,Brilliant content,Loved the real world examples throughout.,positive,38,Yes,2024-10-21
+REV00511,ENR00535,STU0111,CRS011,3,Some sections felt rushed,Would love to see a part 2 covering more advanced concepts.,neutral,15,Yes,2024-12-31
+REV00512,ENR01558,STU0341,CRS039,4,Too basic for me,Clear progression from basic to complex topics.,positive,20,Yes,2024-12-29
+REV00513,ENR02183,STU0469,CRS018,4,Instructor explains really well,Loved the real world examples throughout.,positive,48,Yes,2024-12-26
+REV00514,ENR00721,STU0151,CRS017,4,Best course on this topic,A bit too fast paced for complete beginners.,positive,31,No,2024-12-30
+REV00515,ENR02306,STU0494,CRS006,4,Instructor explains really well,Clear progression from basic to complex topics.,positive,36,Yes,2024-12-24
+REV00516,ENR02089,STU0449,CRS002,4,Could use more real world examples,Would love to see a part 2 covering more advanced concepts.,positive,51,No,2024-11-28
+REV00517,ENR01472,STU0324,CRS030,4,Instructor explains really well,Completed this in a week and landed a job interview shortly after.,positive,21,Yes,2024-10-25
+REV00518,ENR01409,STU0310,CRS014,4,Brilliant content,Loved the real world examples throughout.,positive,35,Yes,2024-12-22
+REV00519,ENR01860,STU0402,CRS007,3,Brilliant content,Loved the real world examples throughout.,neutral,76,No,2024-12-16
+REV00520,ENR01797,STU0389,CRS024,4,Instructor explains really well,Loved the real world examples throughout.,positive,113,Yes,2024-06-05
+REV00521,ENR01710,STU0370,CRS026,3,Best course on this topic,The instructor responds quickly to questions in the Q&A.,neutral,57,Yes,2024-12-28
+REV00522,ENR00641,STU0137,CRS027,4,Decent overview,A bit too fast paced for complete beginners.,positive,15,Yes,2024-06-06
+REV00523,ENR02043,STU0439,CRS032,4,Clear and concise,Exactly what I needed to transition into this field.,positive,99,Yes,2024-09-30
+REV00524,ENR00128,STU0032,CRS011,3,Needs more exercises,Clear progression from basic to complex topics.,neutral,97,No,2024-10-23
+REV00525,ENR01393,STU0306,CRS029,3,Advanced topics well covered,The quizzes helped me retain the material.,neutral,35,Yes,2024-12-25
+REV00526,ENR02325,STU0497,CRS014,4,Very practical,Clear progression from basic to complex topics.,positive,62,No,2024-08-21
+REV00527,ENR01562,STU0342,CRS040,4,Solid fundamentals,Good foundational course but lacks depth in advanced topics.,positive,116,Yes,2024-11-15
+REV00528,ENR00047,STU0013,CRS032,3,Would recommend to a friend,Would love to see a part 2 covering more advanced concepts.,neutral,113,No,2024-12-16
+REV00529,ENR01368,STU0299,CRS011,3,Too basic for me,The instructor responds quickly to questions in the Q&A.,neutral,65,Yes,2024-10-22
+REV00530,ENR00068,STU0018,CRS025,4,Changed how I think about data,Would love to see a part 2 covering more advanced concepts.,positive,68,Yes,2022-10-08
+REV00531,ENR00421,STU0088,CRS039,4,Best course on this topic,Loved the real world examples throughout.,positive,73,Yes,2024-11-26
+REV00532,ENR00254,STU0055,CRS015,3,Absolutely worth it,Completed this in a week and landed a job interview shortly after.,neutral,40,Yes,2024-06-06
+REV00533,ENR00058,STU0015,CRS007,4,Not what I expected,The quizzes helped me retain the material.,positive,111,No,2024-10-22
+REV00534,ENR00855,STU0179,CRS037,4,Worth every penny,Exactly what I needed to transition into this field.,positive,42,No,2024-09-25
+REV00535,ENR02018,STU0434,CRS029,4,Good but could be better,Would love to see a part 2 covering more advanced concepts.,positive,67,Yes,2024-12-28
+REV00536,ENR01942,STU0418,CRS022,4,Decent overview,I struggled at first but the instructor breaks things down really well.,positive,80,No,2024-12-26
+REV00537,ENR00346,STU0073,CRS023,4,Worth every penny,The community support made a huge difference.,positive,48,Yes,2024-06-19
+REV00538,ENR01576,STU0344,CRS031,3,Life changing content,Good foundational course but lacks depth in advanced topics.,neutral,13,Yes,2024-12-17
+REV00539,ENR01825,STU0394,CRS038,4,Good but could be better,Good course but some sections could use updating.,positive,88,Yes,2024-12-09
+REV00540,ENR02120,STU0457,CRS003,4,Needs more exercises,Good foundational course but lacks depth in advanced topics.,positive,95,No,2024-03-12
+REV00541,ENR01681,STU0365,CRS029,4,Could use more real world examples,The instructor responds quickly to questions in the Q&A.,positive,19,No,2024-10-02
+REV00542,ENR01621,STU0354,CRS008,3,Would recommend to a friend,Good foundational course but lacks depth in advanced topics.,neutral,14,Yes,2023-12-26
+REV00543,ENR00400,STU0084,CRS035,4,Very practical,The instructor responds quickly to questions in the Q&A.,positive,77,No,2024-12-25
+REV00544,ENR00264,STU0056,CRS003,4,Best course on this topic,The instructor responds quickly to questions in the Q&A.,positive,85,Yes,2024-12-18
+REV00545,ENR02214,STU0475,CRS013,4,Perfect pace,Would love to see a part 2 covering more advanced concepts.,positive,56,Yes,2024-12-24
+REV00546,ENR00472,STU0097,CRS013,3,Good for beginners,Good foundational course but lacks depth in advanced topics.,neutral,5,No,2024-10-20
+REV00547,ENR01506,STU0332,CRS006,4,Perfect pace,The instructor responds quickly to questions in the Q&A.,positive,80,Yes,2024-12-31
+REV00548,ENR01828,STU0396,CRS013,3,Instructor explains really well,The community support made a huge difference.,neutral,85,No,2024-12-09
+REV00549,ENR01809,STU0392,CRS015,3,Exceeded my expectations,Good course but some sections could use updating.,neutral,15,Yes,2024-12-30
+REV00550,ENR01780,STU0385,CRS003,4,Life changing content,Exactly what I needed to transition into this field.,positive,0,Yes,2024-06-16
+REV00551,ENR01487,STU0328,CRS006,4,Advanced topics well covered,The instructor responds quickly to questions in the Q&A.,positive,19,Yes,2024-10-01
+REV00552,ENR00902,STU0191,CRS006,4,Life changing content,I struggled at first but the instructor breaks things down really well.,positive,78,Yes,2024-12-31
+REV00553,ENR00410,STU0086,CRS021,3,Instructor explains really well,Completed this in a week and landed a job interview shortly after.,neutral,18,Yes,2024-12-28
+REV00554,ENR01056,STU0230,CRS018,3,Best course on this topic,Completed this in a week and landed a job interview shortly after.,neutral,120,Yes,2024-08-20
+REV00555,ENR01885,STU0408,CRS039,4,Life changing content,Loved the real world examples throughout.,positive,82,Yes,2024-11-30
+REV00556,ENR00265,STU0057,CRS011,3,Very practical,Completed this in a week and landed a job interview shortly after.,neutral,106,Yes,2024-04-09
+REV00557,ENR01889,STU0409,CRS027,4,Not what I expected,Would love to see a part 2 covering more advanced concepts.,positive,38,Yes,2024-12-28
+REV00558,ENR00063,STU0016,CRS035,3,Absolutely worth it,Some videos felt repetitive but overall great value.,neutral,59,Yes,2024-08-12
+REV00559,ENR00034,STU0009,CRS012,4,Not what I expected,Clear progression from basic to complex topics.,positive,37,Yes,2024-08-18
+REV00560,ENR02022,STU0434,CRS033,3,Instructor explains really well,The explanations were very clear and the projects helped solidify concepts.,neutral,68,Yes,2024-11-29
+REV00561,ENR00292,STU0062,CRS036,3,Too basic for me,The community support made a huge difference.,neutral,4,Yes,2024-05-11
+REV00562,ENR01624,STU0355,CRS004,3,Not what I expected,The hands-on projects are where this course really shines.,neutral,93,Yes,2024-11-17
+REV00563,ENR00771,STU0164,CRS021,5,Good but could be better,The hands-on projects are where this course really shines.,positive,110,Yes,2024-12-04
+REV00564,ENR00102,STU0027,CRS007,4,A bit outdated,Good course but some sections could use updating.,positive,9,Yes,2024-11-21
+REV00565,ENR00484,STU0099,CRS038,4,Too basic for me,Would love to see a part 2 covering more advanced concepts.,positive,21,No,2024-07-14
+REV00566,ENR00021,STU0006,CRS025,3,A bit outdated,I struggled at first but the instructor breaks things down really well.,neutral,71,Yes,2024-12-24
+REV00567,ENR01435,STU0316,CRS024,3,Some sections felt rushed,Clear progression from basic to complex topics.,neutral,21,No,2024-11-11
+REV00568,ENR01387,STU0304,CRS019,4,Some sections felt rushed,The hands-on projects are where this course really shines.,positive,91,Yes,2024-05-21
+REV00569,ENR01440,STU0317,CRS034,3,Great project based learning,Would love to see a part 2 covering more advanced concepts.,neutral,82,Yes,2024-11-26
+REV00570,ENR00320,STU0068,CRS025,4,Changed how I think about data,The instructor responds quickly to questions in the Q&A.,positive,46,Yes,2024-12-31
+REV00571,ENR02228,STU0477,CRS028,4,Good but could be better,The explanations were very clear and the projects helped solidify concepts.,positive,7,No,2024-12-31
+REV00572,ENR00211,STU0047,CRS029,4,Very practical,Good course but some sections could use updating.,positive,75,Yes,2024-03-30
+REV00573,ENR01119,STU0245,CRS007,4,Too basic for me,The explanations were very clear and the projects helped solidify concepts.,positive,35,Yes,2024-10-04
+REV00574,ENR01381,STU0303,CRS001,3,Brilliant content,Loved the real world examples throughout.,neutral,105,No,2024-12-30
+REV00575,ENR00035,STU0009,CRS032,4,Good for beginners,Some videos felt repetitive but overall great value.,positive,110,Yes,2024-07-26
+REV00576,ENR00233,STU0051,CRS020,3,Decent overview,Completed this in a week and landed a job interview shortly after.,neutral,93,No,2024-11-13
+REV00577,ENR01878,STU0407,CRS013,3,Good for beginners,A bit too fast paced for complete beginners.,neutral,53,Yes,2024-10-13
+REV00578,ENR01434,STU0315,CRS030,3,Life changing content,I struggled at first but the instructor breaks things down really well.,neutral,77,Yes,2024-12-28
+REV00579,ENR01498,STU0330,CRS007,3,Perfect pace,The quizzes helped me retain the material.,neutral,18,Yes,2024-10-27
+REV00580,ENR01712,STU0370,CRS028,3,Decent overview,The explanations were very clear and the projects helped solidify concepts.,neutral,9,Yes,2024-12-27
+REV00581,ENR01165,STU0254,CRS037,3,Clear and concise,The explanations were very clear and the projects helped solidify concepts.,neutral,72,Yes,2024-05-30
+REV00582,ENR00086,STU0023,CRS009,3,Good for beginners,The quizzes helped me retain the material.,neutral,94,Yes,2024-10-03
+REV00583,ENR00828,STU0175,CRS040,4,Some sections felt rushed,Loved the real world examples throughout.,positive,95,Yes,2024-12-10
+REV00584,ENR00002,STU0002,CRS038,3,Could use more real world examples,Would love to see a part 2 covering more advanced concepts.,neutral,102,Yes,2024-12-26
+REV00585,ENR01499,STU0330,CRS009,4,Changed how I think about data,Loved the real world examples throughout.,positive,29,No,2024-10-29
+REV00586,ENR02243,STU0481,CRS007,4,Too basic for me,Completed this in a week and landed a job interview shortly after.,positive,59,No,2024-01-09
+REV00587,ENR01615,STU0353,CRS020,4,"Great course, highly recommend",The hands-on projects are where this course really shines.,positive,111,Yes,2024-11-04
+REV00588,ENR01169,STU0257,CRS039,3,Brilliant content,The quizzes helped me retain the material.,neutral,29,No,2024-12-30
+REV00589,ENR01476,STU0324,CRS005,3,Absolutely worth it,Exactly what I needed to transition into this field.,neutral,52,Yes,2024-12-18
+REV00590,ENR00898,STU0190,CRS021,4,Life changing content,Exactly what I needed to transition into this field.,positive,81,Yes,2024-06-26
+REV00591,ENR01738,STU0378,CRS032,3,Advanced topics well covered,Some videos felt repetitive but overall great value.,neutral,96,No,2024-03-18
+REV00592,ENR02328,STU0498,CRS002,3,Instructor explains really well,Clear progression from basic to complex topics.,neutral,95,Yes,2024-09-17
+REV00593,ENR02091,STU0449,CRS008,3,Absolutely worth it,Loved the real world examples throughout.,neutral,118,Yes,2024-11-03
+REV00594,ENR00718,STU0151,CRS033,4,Brilliant content,Clear progression from basic to complex topics.,positive,110,No,2024-06-26
+REV00595,ENR02118,STU0455,CRS039,3,Not what I expected,Good course but some sections could use updating.,neutral,67,Yes,2024-02-14
+REV00596,ENR00719,STU0151,CRS037,3,"Great course, highly recommend",The community support made a huge difference.,neutral,98,Yes,2024-12-17
+REV00597,ENR00966,STU0208,CRS017,4,Clear and concise,The explanations were very clear and the projects helped solidify concepts.,positive,27,No,2024-12-07
+REV00598,ENR01277,STU0279,CRS028,4,Exceeded my expectations,Exactly what I needed to transition into this field.,positive,118,Yes,2024-04-30
+REV00599,ENR01324,STU0290,CRS029,3,"Great course, highly recommend",Would love to see a part 2 covering more advanced concepts.,neutral,38,Yes,2024-08-08
+REV00600,ENR01042,STU0227,CRS011,4,Life changing content,Good course but some sections could use updating.,positive,58,Yes,2023-02-28
+REV00601,ENR01659,STU0361,CRS021,3,Some sections felt rushed,Some videos felt repetitive but overall great value.,neutral,15,Yes,2024-10-13
+REV00602,ENR01525,STU0335,CRS034,3,Good but could be better,Loved the real world examples throughout.,neutral,85,Yes,2024-07-14
+REV00603,ENR01035,STU0225,CRS007,4,Good but could be better,The community support made a huge difference.,positive,31,Yes,2024-06-10
+REV00604,ENR00310,STU0065,CRS001,4,Advanced topics well covered,Some videos felt repetitive but overall great value.,positive,25,Yes,2024-11-19
+REV00605,ENR01711,STU0370,CRS029,3,Best course on this topic,I struggled at first but the instructor breaks things down really well.,neutral,60,No,2024-07-15
+REV00606,ENR00042,STU0010,CRS021,3,Brilliant content,I struggled at first but the instructor breaks things down really well.,neutral,13,Yes,2024-12-30
+REV00607,ENR02162,STU0464,CRS035,4,Exceeded my expectations,The hands-on projects are where this course really shines.,positive,42,Yes,2024-11-20
+REV00608,ENR02327,STU0498,CRS032,3,Changed how I think about data,The instructor responds quickly to questions in the Q&A.,neutral,71,Yes,2024-08-01
+REV00609,ENR00430,STU0089,CRS023,3,Instructor explains really well,Loved the real world examples throughout.,neutral,6,Yes,2024-11-20
+REV00610,ENR01944,STU0418,CRS021,3,Could use more real world examples,The quizzes helped me retain the material.,neutral,81,No,2024-09-17
+REV00611,ENR02196,STU0472,CRS028,4,Best course on this topic,The community support made a huge difference.,positive,75,Yes,2024-12-04
+REV00612,ENR00347,STU0073,CRS031,4,Solid fundamentals,The instructor responds quickly to questions in the Q&A.,positive,84,Yes,2024-10-01
+REV00613,ENR00411,STU0086,CRS002,4,A bit outdated,A bit too fast paced for complete beginners.,positive,63,Yes,2024-12-17
+REV00614,ENR02074,STU0446,CRS037,3,Perfect pace,The community support made a huge difference.,neutral,77,Yes,2024-11-19
+REV00615,ENR00791,STU0168,CRS004,4,Too basic for me,The quizzes helped me retain the material.,positive,85,Yes,2024-12-14
+REV00616,ENR00901,STU0191,CRS019,4,Would recommend to a friend,Some videos felt repetitive but overall great value.,positive,91,Yes,2024-12-31
+REV00617,ENR01404,STU0309,CRS026,4,Life changing content,Good course but some sections could use updating.,positive,65,Yes,2024-11-30
+REV00618,ENR00568,STU0117,CRS022,4,A bit outdated,Loved the real world examples throughout.,positive,91,No,2024-05-17
+REV00619,ENR00860,STU0181,CRS022,4,Would recommend to a friend,Completed this in a week and landed a job interview shortly after.,positive,61,Yes,2024-12-13
+REV00620,ENR00570,STU0117,CRS023,3,Very practical,Good foundational course but lacks depth in advanced topics.,neutral,62,Yes,2022-05-26
+REV00621,ENR01529,STU0335,CRS015,4,Needs more exercises,Good course but some sections could use updating.,positive,63,Yes,2024-11-22
+REV00622,ENR00017,STU0005,CRS026,3,Solid fundamentals,Good course but some sections could use updating.,neutral,63,Yes,2024-12-20
+REV00623,ENR00764,STU0163,CRS017,4,Brilliant content,The hands-on projects are where this course really shines.,positive,100,Yes,2024-09-23
+REV00624,ENR00931,STU0199,CRS035,4,A bit outdated,Completed this in a week and landed a job interview shortly after.,positive,114,Yes,2024-11-09
+REV00625,ENR01138,STU0249,CRS025,3,Advanced topics well covered,Clear progression from basic to complex topics.,neutral,81,Yes,2024-12-11
+REV00626,ENR00486,STU0099,CRS030,4,Great project based learning,Would love to see a part 2 covering more advanced concepts.,positive,29,Yes,2024-06-22
+REV00627,ENR01834,STU0398,CRS026,5,Solid fundamentals,The community support made a huge difference.,positive,91,Yes,2024-07-05
+REV00628,ENR00999,STU0215,CRS011,4,"Great course, highly recommend",Good foundational course but lacks depth in advanced topics.,positive,46,Yes,2024-04-23
+REV00629,ENR00372,STU0078,CRS011,3,Brilliant content,The hands-on projects are where this course really shines.,neutral,36,Yes,2024-07-10
+REV00630,ENR01195,STU0262,CRS032,4,Very practical,The hands-on projects are where this course really shines.,positive,110,No,2024-11-27
+REV00631,ENR00861,STU0181,CRS003,3,Brilliant content,The instructor responds quickly to questions in the Q&A.,neutral,27,No,2023-10-29
+REV00632,ENR00542,STU0112,CRS021,4,A bit outdated,I struggled at first but the instructor breaks things down really well.,positive,76,Yes,2024-12-28
+REV00633,ENR01578,STU0344,CRS039,4,Good but could be better,Good foundational course but lacks depth in advanced topics.,positive,49,Yes,2023-07-01
+REV00634,ENR01273,STU0278,CRS032,3,Great project based learning,A bit too fast paced for complete beginners.,neutral,66,Yes,2024-12-17
+REV00635,ENR01405,STU0309,CRS028,4,A bit outdated,The quizzes helped me retain the material.,positive,118,Yes,2024-01-05
+REV00636,ENR00769,STU0163,CRS003,4,Life changing content,Exactly what I needed to transition into this field.,positive,12,Yes,2024-12-22
+REV00637,ENR00693,STU0147,CRS031,3,A bit outdated,The instructor responds quickly to questions in the Q&A.,neutral,74,Yes,2024-08-20
+REV00638,ENR01445,STU0320,CRS030,3,Some sections felt rushed,The quizzes helped me retain the material.,neutral,29,Yes,2024-12-27
+REV00639,ENR02124,STU0457,CRS012,4,Best course on this topic,Some videos felt repetitive but overall great value.,positive,108,Yes,2024-11-18
+REV00640,ENR00506,STU0104,CRS013,4,Some sections felt rushed,Clear progression from basic to complex topics.,positive,47,No,2024-11-24
+REV00641,ENR01199,STU0263,CRS019,4,Clear and concise,Completed this in a week and landed a job interview shortly after.,positive,40,No,2024-12-29
+REV00642,ENR00077,STU0021,CRS023,3,Changed how I think about data,Would love to see a part 2 covering more advanced concepts.,neutral,37,Yes,2024-03-21
+REV00643,ENR01373,STU0300,CRS028,3,A bit outdated,The quizzes helped me retain the material.,neutral,28,No,2023-11-15
+REV00644,ENR00366,STU0078,CRS034,3,Could use more real world examples,Clear progression from basic to complex topics.,neutral,45,No,2024-09-01
+REV00645,ENR01336,STU0293,CRS031,3,Needs more exercises,The hands-on projects are where this course really shines.,neutral,38,Yes,2024-11-17
+REV00646,ENR00637,STU0133,CRS008,4,"Great course, highly recommend",The instructor responds quickly to questions in the Q&A.,positive,25,Yes,2024-12-20
+REV00647,ENR01573,STU0343,CRS025,3,Could use more real world examples,Would love to see a part 2 covering more advanced concepts.,neutral,1,No,2024-12-27
+REV00648,ENR00755,STU0161,CRS028,4,"Great course, highly recommend",Some videos felt repetitive but overall great value.,positive,49,Yes,2024-12-29
+REV00649,ENR02235,STU0478,CRS019,4,Good but could be better,The hands-on projects are where this course really shines.,positive,115,No,2024-12-07
+REV00650,ENR00027,STU0007,CRS012,3,Solid fundamentals,Completed this in a week and landed a job interview shortly after.,neutral,61,Yes,2024-11-12
+REV00651,ENR00052,STU0014,CRS039,3,Absolutely worth it,Some videos felt repetitive but overall great value.,neutral,120,Yes,2024-11-14
+REV00652,ENR00724,STU0152,CRS009,3,Decent overview,I struggled at first but the instructor breaks things down really well.,neutral,14,Yes,2024-12-04
+REV00653,ENR00109,STU0028,CRS031,3,Perfect pace,Some videos felt repetitive but overall great value.,neutral,86,No,2024-10-11
+REV00654,ENR00182,STU0043,CRS040,3,Best course on this topic,The quizzes helped me retain the material.,neutral,115,Yes,2024-12-20
+REV00655,ENR00520,STU0109,CRS020,4,Perfect pace,The instructor responds quickly to questions in the Q&A.,positive,58,Yes,2024-10-12
+REV00656,ENR02036,STU0438,CRS035,5,Not what I expected,The explanations were very clear and the projects helped solidify concepts.,positive,88,Yes,2024-12-30
+REV00657,ENR01197,STU0262,CRS010,4,Decent overview,The hands-on projects are where this course really shines.,positive,95,No,2024-12-23
+REV00658,ENR01833,STU0398,CRS032,4,Advanced topics well covered,Good course but some sections could use updating.,positive,58,Yes,2024-12-19
+REV00659,ENR00736,STU0156,CRS013,4,A bit outdated,The explanations were very clear and the projects helped solidify concepts.,positive,27,Yes,2024-12-02
+REV00660,ENR00833,STU0175,CRS024,3,Good for beginners,Exactly what I needed to transition into this field.,neutral,22,No,2024-09-26
+REV00661,ENR02246,STU0481,CRS021,4,Great project based learning,The instructor responds quickly to questions in the Q&A.,positive,76,Yes,2024-12-08
+REV00662,ENR00836,STU0176,CRS001,3,Best course on this topic,Would love to see a part 2 covering more advanced concepts.,neutral,82,Yes,2024-10-01
+REV00663,ENR01787,STU0388,CRS037,4,Clear and concise,The community support made a huge difference.,positive,64,Yes,2024-11-20
+REV00664,ENR00284,STU0060,CRS020,3,Would recommend to a friend,The community support made a huge difference.,neutral,33,Yes,2024-12-18
+REV00665,ENR00274,STU0059,CRS023,3,Too basic for me,A bit too fast paced for complete beginners.,neutral,105,Yes,2024-12-02
+REV00666,ENR01087,STU0237,CRS031,3,Too basic for me,The instructor responds quickly to questions in the Q&A.,neutral,66,Yes,2024-04-16
+REV00667,ENR00013,STU0005,CRS020,3,Not what I expected,Good foundational course but lacks depth in advanced topics.,neutral,38,Yes,2024-02-04
+REV00668,ENR00547,STU0113,CRS037,3,Very practical,Clear progression from basic to complex topics.,neutral,9,Yes,2024-12-17
+REV00669,ENR01400,STU0309,CRS007,5,Advanced topics well covered,Some videos felt repetitive but overall great value.,positive,95,Yes,2024-10-03
+REV00670,ENR00245,STU0053,CRS026,4,Exceeded my expectations,Good foundational course but lacks depth in advanced topics.,positive,98,Yes,2024-08-16
+REV00671,ENR00191,STU0044,CRS001,3,Would recommend to a friend,Completed this in a week and landed a job interview shortly after.,neutral,85,Yes,2024-07-29
+REV00672,ENR00727,STU0154,CRS027,4,Could use more real world examples,The hands-on projects are where this course really shines.,positive,115,Yes,2024-09-16
+REV00673,ENR00985,STU0212,CRS003,3,Good for beginners,A bit too fast paced for complete beginners.,neutral,40,Yes,2024-12-03
+REV00674,ENR01598,STU0348,CRS040,3,Would recommend to a friend,Loved the real world examples throughout.,neutral,90,No,2024-06-13
+REV00675,ENR00137,STU0034,CRS027,3,Instructor explains really well,Exactly what I needed to transition into this field.,neutral,114,Yes,2024-10-08
+REV00676,ENR00418,STU0087,CRS006,3,Decent overview,The hands-on projects are where this course really shines.,neutral,94,Yes,2022-09-19
+REV00677,ENR02121,STU0457,CRS014,3,Very practical,A bit too fast paced for complete beginners.,neutral,104,Yes,2024-03-13
+REV00678,ENR00531,STU0111,CRS008,4,Brilliant content,The quizzes helped me retain the material.,positive,46,Yes,2024-12-24
+REV00679,ENR01749,STU0380,CRS013,4,Clear and concise,Clear progression from basic to complex topics.,positive,76,Yes,2024-12-23
+REV00680,ENR01611,STU0352,CRS004,4,Changed how I think about data,The instructor responds quickly to questions in the Q&A.,positive,20,No,2024-08-18
+REV00681,ENR01346,STU0296,CRS025,3,Could use more real world examples,The quizzes helped me retain the material.,neutral,101,Yes,2024-12-07
+REV00682,ENR01062,STU0231,CRS024,3,Decent overview,The community support made a huge difference.,neutral,68,Yes,2024-11-28
+REV00683,ENR00686,STU0145,CRS017,5,Instructor explains really well,Good foundational course but lacks depth in advanced topics.,positive,53,Yes,2024-05-30
+REV00684,ENR02290,STU0491,CRS005,4,Some sections felt rushed,The explanations were very clear and the projects helped solidify concepts.,positive,107,Yes,2024-09-26
+REV00685,ENR01115,STU0243,CRS014,3,Worth every penny,Some videos felt repetitive but overall great value.,neutral,48,Yes,2024-12-07
+REV00686,ENR01044,STU0227,CRS040,5,Too basic for me,The instructor responds quickly to questions in the Q&A.,positive,8,No,2024-11-17
+REV00687,ENR02283,STU0490,CRS025,3,Could use more real world examples,The instructor responds quickly to questions in the Q&A.,neutral,103,No,2024-08-26
+REV00688,ENR00172,STU0040,CRS040,4,Changed how I think about data,Good foundational course but lacks depth in advanced topics.,positive,22,Yes,2024-12-12
+REV00689,ENR01726,STU0374,CRS028,4,Solid fundamentals,Some videos felt repetitive but overall great value.,positive,110,No,2024-05-25
+REV00690,ENR02258,STU0483,CRS038,4,Brilliant content,Good course but some sections could use updating.,positive,17,Yes,2024-05-27
+REV00691,ENR00695,STU0147,CRS037,4,A bit outdated,Clear progression from basic to complex topics.,positive,33,Yes,2024-03-25
+REV00692,ENR00613,STU0128,CRS026,4,Worth every penny,The community support made a huge difference.,positive,19,No,2024-07-31
+REV00693,ENR00496,STU0102,CRS032,3,Great project based learning,The community support made a huge difference.,neutral,44,Yes,2024-04-05
+REV00694,ENR00181,STU0043,CRS039,4,Solid fundamentals,Would love to see a part 2 covering more advanced concepts.,positive,70,No,2024-09-26
+REV00695,ENR00385,STU0081,CRS030,4,Absolutely worth it,Clear progression from basic to complex topics.,positive,12,No,2024-12-21
+REV00696,ENR01312,STU0286,CRS018,4,Absolutely worth it,Clear progression from basic to complex topics.,positive,40,Yes,2024-05-22
+REV00697,ENR01728,STU0375,CRS002,3,Too basic for me,Exactly what I needed to transition into this field.,neutral,82,No,2024-10-08
+REV00698,ENR01599,STU0348,CRS019,4,Could use more real world examples,I struggled at first but the instructor breaks things down really well.,positive,36,No,2024-09-11
+REV00699,ENR01090,STU0238,CRS012,3,Good for beginners,Loved the real world examples throughout.,neutral,63,Yes,2024-02-25
+REV00700,ENR00576,STU0118,CRS034,3,Good but could be better,A bit too fast paced for complete beginners.,neutral,57,Yes,2024-10-23
+REV00701,ENR02073,STU0446,CRS039,4,Worth every penny,Good foundational course but lacks depth in advanced topics.,positive,102,Yes,2024-12-28
+REV00702,ENR00661,STU0141,CRS025,4,Advanced topics well covered,The explanations were very clear and the projects helped solidify concepts.,positive,31,Yes,2024-11-24
+REV00703,ENR02134,STU0459,CRS019,3,"Great course, highly recommend",I struggled at first but the instructor breaks things down really well.,neutral,60,Yes,2024-12-30
+REV00704,ENR01493,STU0329,CRS038,3,Good but could be better,The explanations were very clear and the projects helped solidify concepts.,neutral,64,Yes,2024-11-20
+REV00705,ENR01560,STU0341,CRS034,3,Needs more exercises,Would love to see a part 2 covering more advanced concepts.,neutral,92,Yes,2024-12-31
+REV00706,ENR02285,STU0490,CRS040,4,Not what I expected,A bit too fast paced for complete beginners.,positive,112,Yes,2024-12-01
+REV00707,ENR01936,STU0417,CRS020,4,Exceeded my expectations,The hands-on projects are where this course really shines.,positive,39,Yes,2024-07-29
+REV00708,ENR01515,STU0334,CRS028,4,Advanced topics well covered,The community support made a huge difference.,positive,60,Yes,2024-10-15
+REV00709,ENR01246,STU0272,CRS001,4,Not what I expected,Exactly what I needed to transition into this field.,positive,80,Yes,2024-10-08
+REV00710,ENR01059,STU0231,CRS030,4,Good but could be better,A bit too fast paced for complete beginners.,positive,74,Yes,2024-11-16
+REV00711,ENR00956,STU0205,CRS014,3,Great project based learning,Loved the real world examples throughout.,neutral,69,Yes,2024-12-13
+REV00712,ENR02322,STU0497,CRS016,3,Not what I expected,The quizzes helped me retain the material.,neutral,35,Yes,2024-12-29
+REV00713,ENR01443,STU0320,CRS002,4,Brilliant content,The explanations were very clear and the projects helped solidify concepts.,positive,117,No,2024-08-22
+REV00714,ENR01490,STU0329,CRS029,4,Solid fundamentals,Would love to see a part 2 covering more advanced concepts.,positive,5,Yes,2024-12-26
+REV00715,ENR02265,STU0485,CRS014,4,Not what I expected,Completed this in a week and landed a job interview shortly after.,positive,100,Yes,2024-12-19
+REV00716,ENR02261,STU0483,CRS019,3,Perfect pace,Good course but some sections could use updating.,neutral,39,Yes,2024-10-27
+REV00717,ENR01334,STU0293,CRS013,3,Would recommend to a friend,Completed this in a week and landed a job interview shortly after.,neutral,73,Yes,2024-12-28
+REV00718,ENR02194,STU0471,CRS002,4,Absolutely worth it,Would love to see a part 2 covering more advanced concepts.,positive,68,Yes,2024-12-29
+REV00719,ENR01264,STU0277,CRS012,3,Could use more real world examples,The explanations were very clear and the projects helped solidify concepts.,neutral,9,Yes,2024-10-02
+REV00720,ENR01570,STU0343,CRS019,3,Not what I expected,Would love to see a part 2 covering more advanced concepts.,neutral,102,No,2024-06-16
+REV00721,ENR00358,STU0075,CRS018,5,Perfect pace,The hands-on projects are where this course really shines.,positive,61,Yes,2024-12-12
+REV00722,ENR02056,STU0442,CRS021,4,Changed how I think about data,I struggled at first but the instructor breaks things down really well.,positive,20,No,2024-12-02
+REV00723,ENR01462,STU0322,CRS023,3,Decent overview,The instructor responds quickly to questions in the Q&A.,neutral,96,Yes,2024-06-24
+REV00724,ENR01975,STU0423,CRS010,4,Life changing content,The explanations were very clear and the projects helped solidify concepts.,positive,81,Yes,2024-12-31
+REV00725,ENR01149,STU0251,CRS033,4,Decent overview,Loved the real world examples throughout.,positive,95,No,2024-12-30
+REV00726,ENR01204,STU0263,CRS014,4,Good but could be better,The explanations were very clear and the projects helped solidify concepts.,positive,46,Yes,2024-08-06
+REV00727,ENR00226,STU0050,CRS006,4,Absolutely worth it,Good foundational course but lacks depth in advanced topics.,positive,15,Yes,2024-12-31
+REV00728,ENR01941,STU0418,CRS020,3,Best course on this topic,Loved the real world examples throughout.,neutral,92,Yes,2024-12-07
+REV00729,ENR00503,STU0104,CRS037,4,Some sections felt rushed,The community support made a huge difference.,positive,36,No,2024-12-16
+REV00730,ENR01720,STU0373,CRS016,4,Great project based learning,The quizzes helped me retain the material.,positive,12,No,2024-09-30
+REV00731,ENR01632,STU0356,CRS034,3,Too basic for me,Good course but some sections could use updating.,neutral,72,Yes,2024-12-15
+REV00732,ENR01157,STU0252,CRS025,3,Instructor explains really well,The explanations were very clear and the projects helped solidify concepts.,neutral,119,No,2024-12-29
+REV00733,ENR01155,STU0252,CRS033,4,Good for beginners,Clear progression from basic to complex topics.,positive,31,No,2024-11-03
+REV00734,ENR02256,STU0483,CRS018,3,A bit outdated,The quizzes helped me retain the material.,neutral,17,Yes,2024-11-27
+REV00735,ENR00005,STU0003,CRS021,3,"Great course, highly recommend",Good course but some sections could use updating.,neutral,19,No,2023-01-09
+REV00736,ENR02148,STU0462,CRS021,4,Worth every penny,Exactly what I needed to transition into this field.,positive,111,No,2024-12-25
+REV00737,ENR00050,STU0014,CRS027,4,Too basic for me,Exactly what I needed to transition into this field.,positive,114,Yes,2023-02-04
+REV00738,ENR01052,STU0230,CRS034,3,Solid fundamentals,Completed this in a week and landed a job interview shortly after.,neutral,45,Yes,2023-04-10
+REV00739,ENR00948,STU0204,CRS024,3,Very practical,Completed this in a week and landed a job interview shortly after.,neutral,59,Yes,2024-09-30
+REV00740,ENR00060,STU0015,CRS014,3,Very practical,Good foundational course but lacks depth in advanced topics.,neutral,30,No,2024-08-27
+REV00741,ENR00564,STU0115,CRS032,4,Life changing content,The instructor responds quickly to questions in the Q&A.,positive,64,Yes,2024-12-27
+REV00742,ENR01267,STU0277,CRS009,3,Good for beginners,Some videos felt repetitive but overall great value.,neutral,119,Yes,2024-11-03
+REV00743,ENR02180,STU0469,CRS036,3,Best course on this topic,A bit too fast paced for complete beginners.,neutral,22,Yes,2024-11-09
+REV00744,ENR00964,STU0207,CRS032,3,Great project based learning,Completed this in a week and landed a job interview shortly after.,neutral,38,Yes,2023-08-10
+REV00745,ENR01633,STU0356,CRS017,4,Best course on this topic,Loved the real world examples throughout.,positive,63,Yes,2024-12-09
+REV00746,ENR00160,STU0038,CRS021,4,Instructor explains really well,Completed this in a week and landed a job interview shortly after.,positive,117,No,2024-09-27
+REV00747,ENR01572,STU0343,CRS008,3,Perfect pace,Clear progression from basic to complex topics.,neutral,23,No,2024-12-29
+REV00748,ENR00784,STU0166,CRS022,4,Not what I expected,The explanations were very clear and the projects helped solidify concepts.,positive,54,Yes,2024-01-04
+REV00749,ENR01286,STU0281,CRS023,4,A bit outdated,Would love to see a part 2 covering more advanced concepts.,positive,20,No,2024-12-21
+REV00750,ENR02143,STU0460,CRS029,3,Changed how I think about data,Exactly what I needed to transition into this field.,neutral,120,Yes,2024-04-26
+REV00751,ENR01403,STU0309,CRS040,3,Best course on this topic,I struggled at first but the instructor breaks things down really well.,neutral,62,Yes,2024-10-06
+REV00752,ENR00758,STU0162,CRS026,4,Changed how I think about data,The quizzes helped me retain the material.,positive,56,Yes,2024-12-10
+REV00753,ENR01015,STU0219,CRS007,3,Very practical,The community support made a huge difference.,neutral,27,Yes,2024-12-19
+REV00754,ENR00217,STU0048,CRS006,4,Very practical,Loved the real world examples throughout.,positive,28,No,2023-03-17
+REV00755,ENR00113,STU0029,CRS030,3,Brilliant content,Completed this in a week and landed a job interview shortly after.,neutral,110,No,2024-11-03
+REV00756,ENR00598,STU0121,CRS025,4,Changed how I think about data,Clear progression from basic to complex topics.,positive,116,Yes,2024-12-28
+REV00757,ENR00772,STU0164,CRS004,3,Instructor explains really well,The hands-on projects are where this course really shines.,neutral,52,Yes,2024-12-10
+REV00758,ENR01234,STU0269,CRS029,3,Very practical,Loved the real world examples throughout.,neutral,117,Yes,2024-12-05
+REV00759,ENR00638,STU0134,CRS024,3,Good for beginners,Would love to see a part 2 covering more advanced concepts.,neutral,118,Yes,2024-08-07
+REV00760,ENR01842,STU0399,CRS022,4,Best course on this topic,Loved the real world examples throughout.,positive,58,No,2024-02-10
+REV00761,ENR01223,STU0268,CRS034,4,Needs more exercises,Exactly what I needed to transition into this field.,positive,4,Yes,2024-10-14
+REV00762,ENR01021,STU0222,CRS013,4,Exceeded my expectations,The explanations were very clear and the projects helped solidify concepts.,positive,61,Yes,2024-12-21
+REV00763,ENR01680,STU0365,CRS032,4,Too basic for me,Exactly what I needed to transition into this field.,positive,95,Yes,2024-12-29
+REV00764,ENR01375,STU0302,CRS016,4,Decent overview,A bit too fast paced for complete beginners.,positive,2,Yes,2024-11-02
+REV00765,ENR01316,STU0287,CRS015,4,Instructor explains really well,Good foundational course but lacks depth in advanced topics.,positive,8,Yes,2024-12-18
+REV00766,ENR00943,STU0202,CRS034,4,Would recommend to a friend,Completed this in a week and landed a job interview shortly after.,positive,22,Yes,2024-08-13
+REV00767,ENR01266,STU0277,CRS024,3,Instructor explains really well,The quizzes helped me retain the material.,neutral,47,Yes,2024-10-28
